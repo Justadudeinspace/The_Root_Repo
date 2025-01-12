@@ -491,7 +491,7 @@ Power
 - PowerAct
 
 
-# Installation Instructions
+# Installation Instructions & Guides
 - <a href="https://topjohnwu.github.io/Magisk/install.html">Magisk Install Guide</a>
 
 
