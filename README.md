@@ -782,4 +782,4 @@ Email: justadudeinspace4244@hotmail.com
 
 
 
-${Justadudeinspace}.${The_Root_Repo}, https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
