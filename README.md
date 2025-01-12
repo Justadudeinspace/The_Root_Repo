@@ -410,6 +410,7 @@ Miscellaneous
 - dualapp-mediastore-compatibility
 - LSPatch
 - SimpleWear
+- Shizuku-API
 
 Network
 
@@ -452,7 +453,7 @@ Terminals
 - aShell You
 - ShizuShell
 
-# Vendor-Specific
+Vendor-Specific Rootless Modification Apps 
 
 Google Pixel
 
@@ -473,8 +474,6 @@ MIUI
 - Mi-FreeForm
 - Flyme-FreeForm
 - NavigationSwitcher
-
-- Shizuku-API
 
 Filesystem
 
