@@ -37,7 +37,15 @@ Some highlight features:
 
 - <a href="https://github.com/bmax121/APatch/releases/tag/10763">Releases</a>
 
-- KernalSU
+<a href="https://github.com/tiann/KernelSU">KernalSU</a> is a Kernel based root solution for Android.
+
+- KernelSU officially supports Android GKI 2.0 devices (kernel 5.10+). Older kernels (4.14+) are also compatible, but the kernel will have to be built manually.
+
+- With this, WSA, ChromeOS, and container-based Android are all supported.
+
+- Currently, only arm64-v8a and x86_64 are supported.
+
+- <a href="https://github.com/tiann/KernelSU/releases">Releases</a>
 
 Android 5-
 - KingRoot
