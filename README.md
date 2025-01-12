@@ -20,14 +20,13 @@ Some highlight features:
 - MagiskSU: Provide root access for applications
 - Magisk Modules: Modify read-only partitions by installing modules
 - MagiskBoot: The most complete tool for unpacking and repacking Android boot images
-- Zygisk: Run code in every Android applications' processe
-  s.
+- Zygisk: Run code in every Android applications' processes.
 
-- <a href="https://github.com/topjohnwu/Magisk/releases">Releases</a>
+- <a href="https://github.com/topjohnwu/Magisk/releases">Download</a>
   
 <a href="https://github.com/HuskyDG/magisk-files">Kitsune Mask</a> is a fork of Magisk that operates much in the same way.
 
-- <a href="https://github.com/HuskyDG/magisk-files/releases">Releases</a>
+- <a href="https://github.com/HuskyDG/magisk-files/releases">Download</a>
 
 <a href="https://github.com/bmax121/APatch">APatch</a> is a new kernel-based root solution for Android devices.
 
@@ -35,7 +34,7 @@ Some highlight features:
 - Only supports the ARM64 architecture.
 - Only supports Android kernel versions 3.18 - 6.1
 
-- <a href="https://github.com/bmax121/APatch/releases/tag/10763">Releases</a>
+- <a href="https://github.com/bmax121/APatch/releases/tag/10763">Download</a>
 
 <a href="https://github.com/tiann/KernelSU">KernalSU</a> is a Kernel based root solution for Android.
 
@@ -45,7 +44,7 @@ Some highlight features:
 
 - Currently, only arm64-v8a and x86_64 are supported.
 
-- <a href="https://github.com/tiann/KernelSU/releases">Releases</a>
+- <a href="https://github.com/tiann/KernelSU/releases">Download</a>
 
 Android 5-
 - KingRoot
