@@ -360,172 +360,170 @@ X/Twitter
 
 ### Automation
 
-    Automate - Lets you create custom automation workflows using flowcharts, enabling seamless management of tasks, files, and device settings. Proprietary
-    MacroDroid - Easy to use automation app. Proprietary
-    Tasker - An advanced and powerful automation app. Proprietary
+- Automate
+- MacroDroid
+- Tasker
 
 ### Backup & Restore
 
-    DataBackup - DataBackup for Android 7.0+. FOSS
-    DiskDigger - A powerful data recovery tool for Android devices. Proprietary
-    Neo Backup - Powerful open-source backup solution. FOSS
-    Swift Backup - Modern backup solution with cloud support. Proprietary
+- DataBackup
+- DiskDigger
+- Neo Backup
+- Swift Backup
 
 ### Battery Management
 
-    AccA - Advanced Charging Controller app. FOSS
-    Battery Guru - Battery optimization and monitoring. Proprietary
-    Xtreme-Battery-Saver - An extreme battery saver Magisk Module for users who want to really stretch their battery life. FOSS [M]
+- AccA
+- Battery Guru
+- Xtreme-Battery-Saver
 
 ### Cleaning Apps
 
-    DirCleaner - A simple and practical cleaning tool. Proprietary
-    Cache Cleaner - A simple tool to clean cache files on your device. FOSS
-    SD Maid 2/SE - A file management tool for Android that specialises in maintenance. Its core purpose is freeing up space and removing unwanted data. FOSS
+- DirCleaner
+- Cache Cleaner
+- SD Maid 2/SE
 
 ### Customizations
 Boot Animations
 
-    Bootanimation - A custom boot animation for Android. FOSS
-    Live Boot - Get a Linux-like live boot screen on Android. Proprietary
-    video-to-bootanimation - A Magisk Module Which Can Set Videos as Android Device BootAnimation. FOSS [M]
+- Bootanimation
+- Live Boot
+- video-to-bootanimation
 
 Launchers
 
-    Pixel Launcher Mods - Mods for enhancing the Pixel Launcher experience. FOSS
-    Lawnchair - A customizable launcher offering a Pixel-like experience. FOSS
-    NovaInstaller - Installs Nova Launcher to /system/app/ on Android. FOSS
+- Pixel Launcher Mods
+- Lawnchair
+- NovaInstaller
 
 Navigation
 
-    NavTweaks - Fullscreen/Immersive Gesture Tweaks for Android 10-14. FOSS [M]
-    Volume Key Track Control Module - An Xposed module that allows to skip and play/pause track with volume keys. FOSS [LP]
+- NavTweaks
+- Volume Key Track Control Module [LP]
 
 ### OS Customization
 AOSP
 
-    PixelXpert - A mixed Xposed+Magisk module, which is made to allow customizations that are not originally designed in AOSP. FOSS [M] [LP]
+- PixelXpert [LP]
 
 ColorOS
 
-    LuckyTool - Extended and optimized Xposed module for ColorOS. FOSS [LP]
+- LuckyTool [LP]
 
 Global
 
-    SystemUI Tuner - View and modify hidden settings on Android devices. FOSS [M]
+- SystemUI Tuner
 
 HyperOS
 
-    ClipboardList - Remove the 20-item limit and time limit for the Clipboard and Phrases feature.Only for MIUI & HyperOS. FOSS [LP]
-    HyperCeiler - Extensive customizations for HyperOS. FOSS [LP]
-    Hyper Helper - Lightweight customization module for HyperOS only. FOSS [LP]
-    HyperStar - An LSPosed module mainly designed to customize the Xiaomi HyperOS Control Center, along with some features. FOSS [LP]
-    MIUIqol - Improves my experience of MIUI 12 to 14 and HyperOS. FOSS [LP]
-    Pengeek - Customize your HyperOS to your liking. For HyperOS based on Android 14. FOSS [LP]
+- ClipboardList [LP]
+- HyperCeiler [LP]
+- Hyper Helper [LP]
+- HyperStar [LP]
+- MIUIqol [LP]
+- Pengeek [LP]
 
 Oxygen OS
 
-    Oxygen-Customizer - Open-source Oxygen OS customizer application. FOSS [LP]
+- Oxygen-Customizer [LP]
 
 Theming
 
-    ColorBlendr - Customize Material You colors of your device. FOSS
-    ColorOS Notify Icon
-    Optimize notification icons for ColorOS and adapt to native notification icon specifications. FOSS
-    Iconify - Customize your Android 12+ device easily. FOSS [M]
-    Project Themer - Provides tools and features for rooted devices. Proprietary [M]
+- ColorBlendr
+- ColorOS Notify Icon
+- Iconify
+- Project Themer
 
 ### Debloating
 
-    Canta - Uninstall any app without root using Shizuku (Needs Shizuku to be installed and running). FOSS
-    De-Bloater - An application using the power of Magisk to debloat unwanted system apps!. FOSS
+- Canta
+- De-Bloater
 
 ### Development and Debugging
 
-    LADB - Local ADB shell. FOSS - Free Build
-    Shizuku - Use system APIs directly with ADB/root privileges. FOSS
-    Termux - Advanced terminal emulator and Linux environment. FOSS - More on Termux
-    Wireless ADB Switch - Quickly enable or disable Android's Wireless Debugging feature. Includes widgets and a quick settings tile for convenience. FOSS
-    USB HID Client - Use your phone as a keyboard and mouse without any software on the other end. FOSS
+- LADB
+- Shizuku
+- Wireless ADB Switch
+- USB HID Client
 
 ### File Management
 
-    Material Files - Modern file manager with root capabilities. FOSS
-    MiXplorer - Feature-rich file manager. Proprietary
-    MT Manager - File Management & Reverse Engineering Tool for Android. Proprietary
-    Root Explorer - File manager with root access. Proprietary
-    Solid Explorer - Powerful file manager with root support. Proprietary
-    Total Commander - A feature rich file maanger for Android supporting root and shizuku.For a better experince, please read this. Proprietary
-    Xplore File Manager - A file manager with root support. Proprietary
+- Material Files
+- MiXplorer
+- MT Manager
+- Root Explorer
+- Solid Explorer
+- Total Commander
+- Xplore File Manager
 
 ### Kernel
 
-    EX Kernel Manager - Root tool for backup and flashing kernels, tweaking color, sound, gestures and other kernel settings. Proprietary
-    Franco Kernel Manager - A complete toolbox for all devices with a rich that combines everything you need to manage, tweak and empower your device. Proprietary
-    SmartPack-Kernel-Manager - A Kernel Manager. FOSS
+- EX Kernel Manager
+- Franco Kernel Manager
+- SmartPack-Kernel-Manager
 
 ### Network Tools
 
-    VPN Hotspot - Share your VPN connection over hotspot or repeater. FOSS
-    SimbaDroid - A simple SMB file server for Android. FOSS
+- VPN Hotspot
+- SimbaDroid
 
 ### Privacy and Security
 
-    AFWall+ - Iptables-based firewall. FOSS
-    Amarok - Android application which enables you to hide your private files & apps with a single click - FOSS
-    Enable Screenshot - Enabling screenshots in apps that normally wouldn't allow it, and disabling screenshot(Android 14+) & screen record(Android 15+) detection. FOSS [LP]
-    Flag Secure Patcher - Magisk module to patch service.jar on device to disable secure lock and screenshot listeners. FOSS [M]
-    SensorsOff - Simple app to enable or disable privacy sensors(camera and microphone) on Miui/HyperOS. FOSS
+- AFWall+
+- Amarok
+- Enable Screenshot [LP]
+- Flag Secure Patcher
+- SensorsOff
 
 ### Root Specific
 Hide Root
 
-    Hide My Applist - An Xposed module to intercept applist detections. FOSS [LP]
-    Play Integrity Fix - Fix Play Integrity (and SafetyNet) verdicts. FOSS [M]
-    ReZygisk - A standalone and open-source Zygisk implementation, providing Zygisk API support for KernelSU and a replacement for Magisk's built-in Zygisk. FOSS [M]
-    Shamiko - Hide Magisk. Proprietary [M]
-    TrickyStore - Modifying the certificate chain generated for android key attestation. Proprietary [M]
-    Zygisk-Assistant - A Zygisk module to hide root for KernelSU, Magisk and APatch. FOSS [M]
-    Zygisk Next - Standalone implementation of Zygisk, providing Zygisk API support for KernelSU and a replacement of Magisk's built-in Zygisk. Proprietary [M]
+- Hide My Applist [LP]
+- Play Integrity Fix
+- ReZygisk
+- Shamiko
+- TrickyStore
+- Zygisk-Assistant
+- Zygisk Next
 
 ### Managers
 
-    Magisk Manager - Manage Magisk modules and root permissions. FOSS
-    MMRL - An Android app that helps manage your own modules repository. FOSS
+- Magisk Manager
+- MMRL
 
 ### System Modifications
 
-    AutoNight - Controlling Android's Dark Mode through environmental brightness. FOSS
-    CorePatch - Disable signature verification For Android. FOSS [LP]
-    Disable Rotation Button - App to disable Android's floating rotation button. FOSS
-    KnoxPatch - Get Samsung apps/features working again in your rooted Galaxy device. For better experience, please also read this . Foss [LP]
-    Open WebView - Helps you to replace your system webview though Magisk. FOSS [M]
-    Thanox - A system management tool that provide convenient functions like application startup management, background management, permission management etc. FOSS [LP]
-    Universal GMS Doze - Patches Google Play services app and certain processes/services to be able to use battery optimization. FOSS [M]
-    Uperf-Game-Turbo - Userspace performance controller for Android. FOSS [M]
+- AutoNight
+- CorePatch [LP]
+- Disable Rotation Button
+- KnoxPatch [LP]
+- Open WebView
+- Thanox [LP]
+- Universal GMS Doze
+- Uperf-Game-Turbo
 
 ### Termux
 
-    Termux - A terminal emulator application for Android OS extendible by variety of packages. FOSS
-    Termux:API - Termux add-on app which exposes device functionality as API to command line programs. FOSS
-    Termux:Boot - Run scripts at device boot. FOSS
-    Termux:Float - Run Termux in a floating window. FOSS
-    Termux:Styling - A Termux add-on app to customize the terminal font and color theme. FOSS
-    Termux:Tasker - Termux add-on app for integration with Tasker. FOSS
-    Termux:Widget - Termux add-on app which adds shortcuts to commands on the home screen. FOSS
+- Termux
+- Termux:API
+- Termux:Boot
+- Termux:Float
+- Termux:Styling
+- Termux:Tasker
+- Termux:Widget
 
 ### Tools
 
-    Device Info HW - A hardware and software information app for Android devices. Proprietary
-    Hydrostellaire - A magisk module for devices running on Dimensity flagship platforms and OnePlus, Realme devices. FOSS [M]
-    JoyCon Droid - Allows you to turn your Android device into a controller for your Nintendo Switch. FOSS
-    NFC Card Emulator Pro (Root) - An NFC Card Emulator that simulates various types of cards, e.g., access cards, elevator cards, factory (meal) cards, school (meal) cards, some library cards, and other IC cards. Proprietary
-    Pi-hole-for-Android - Pi-hole/Unbound Raspbian APK installer for Android 5.0+ devices. FOSS
-    SecondScreen - Advanced solution to connect your Android device to external displays. FOSS
-    UotanToolbox NT - A modern toolbox for geeks. FOSS
-    TTLChanger - Allows you to modify the default TTL (Time to Live) value. FOSS
-    Root Activity Launcher - Launch activities directly from your home screen with root access. Proprietary [M]
-    WiFi Password Viewer for MMRL - WiFi Password Viewer for MMRL. FOSS
+- Device Info HW
+- Hydrostellaire
+- JoyCon Droid
+- NFC Card Emulator Pro (Root)
+- Pi-hole-for-Android
+- SecondScreen
+- UotanToolbox NT
+- TTLChanger
+- Root Activity Launcher
+- WiFi Password Viewer for MMRL
 
 ## Magisk Modules
 
