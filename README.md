@@ -271,8 +271,11 @@ Android 5-
 
 
 # Resource Links
-- XDA Forums
-- Hovatek Forums
+- <a href="https://xdaforums.com/">XDA Forums</a>
+
+- <a href="https://www.hovatek.com/forum/">Hovatek Forums</a>
+
+- <a href="https://www.hovatek.com/twrpbuilder/">Hovatek TWRP Builder</a>
 
 # Support & Contribute
 If you see something missing from The_Root_Repo, and you think it needs to be added to the list please contact me via email with complete details of the item in question.
