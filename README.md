@@ -23,7 +23,10 @@ Some highlight features:
 
 - <a href="https://github.com/topjohnwu/Magisk/releases">Releases</a>
   
-- Kitsune Mask
+- <a href="https://github.com/HuskyDG/magisk-files">Kitsune Mask</a> is a fork of Magisk that operates much in the same way.
+
+- <a href="https://github.com/HuskyDG/magisk-files/releases">Releases</a>
+
 - Apatch
 - KernalSU
 
