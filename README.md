@@ -183,6 +183,27 @@ Android 7-
 - YAAP AOSP
 - ZeusOS
 
+# GSI Rom/Firmware List
+- /e/ OS
+- Ancient OS
+- Android S GSI
+- AOSP
+- BlissROMs
+- CAOS A11
+- Cherish OS
+- Corvus OS
+- CrDroid R Mod
+- Descendant 11.5
+- Dot OS
+- Havoc OS
+- LeOS
+- Lineage OS R Mod
+- Lineage OS
+- Octavi OS
+- Phh Treble
+- Pixel Experience
+- Project Elixir
+
 # Root Apps
 
 
