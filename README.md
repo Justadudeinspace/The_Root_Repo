@@ -223,7 +223,7 @@ Android 7-
 
 
 # Xposed Modules
-- LSposed (Xposed Framework)
+- LSposed - (Xposed Framework)
 - 
 
 # Rootless Modifications
