@@ -264,80 +264,80 @@ Some highlight features:
 # Rootless Modifications
 - <a href="https://shizuku.rikka.app/">Shizuku</a> - The Core app needed for all rootless modifications. Shizuku grants users a limited access to the adb network on Android devices.
 
-Apps
+# Rootless Modification Apps
 Audio
 
-    RootlessJamesDSP - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices GPL-3.0 (Source code)
+- RootlessJamesDSP
 
 Automation
 
-    AutoJs6 - JavaScript-based automation tool MPL-2.0
-    PhoneProfilesPlus - Allows automatic or one-click configuration of your device for specific life situations Apache-2.0
-    MacroDroid Ads IAP 💰 - Automation app for Android devices. Version 5.46 and later introduces Shizuku support. Proprietary
-    UbikiTouch IAP 💰 - Add functions to your favourite applications, accessible with a single gesture. Swipe one edge of your screen to reveal a customisable menu displaying your favourite actions. Proprietary
+- AutoJs6
+- PhoneProfilesPlus
+- MacroDroid (Ads & IAP)
+- UbikiTouch (IAP)
 
 Communication
 
-    Lemmy Redirect - A simple app for automatically launching lemmy links in your preferred Lemmy client. MIT (Source code)
-    Mastodon Redirect - A simple app for automatically launching fediverse links in your preferred Mastodon client. MIT (Source code)
-    TxtNet-Browser - An app that lets you browse the web over SMS GPL-3.0
-    Bunny-Manager - Patch manager for the Discord Bunny mod OSL-3.0
+- Lemmy Redirect
+- Mastodon Redirect
+- TxtNet-Browser
+- Bunny-Manager
 
 Customization
 
-    AAAD IAP 💰 - Downloads popular Android Auto 3rd party apps and installs on Android Auto Proprietary
-    AlwaysOnDisplayToggle - An Android quick setting to toggle Always on Display MIT (Source code)
-    AmbientMusicMod - Port of Now Playing from Pixels to other Android devices GPL-3.0
-    AutoDark - A small Android app to let you schedule dark mode On/Off MIT (Source code)
-    AutoDND - A simple tool to toggle DND automatically when using specified apps AGPL-3.0 (Source code)
-    Better Internet Tiles - Bring back Wi-Fi and mobile data tiles on Android 12 or higher + a better-unified internet tile GPL-3.0 (Source code)
-        Better Internet Tiles Libre - Libre fork of Better Internet Tiles without proprietary libraries GPL-3.0
-    CarrierVanityName - Carrier Vanity Name is a very simple app to change the carrier names on unrooted Android devices GPL-3.0
-    ColorBlendr - An application to modify Material You colors of your device GPL-3.0
-    DarQ - DarQ provides a per-app selectable force dark option for Android 10 and above Apache-2.0
-    Dawn-Desktop-Addons - Some Android app widgets and live wallpapers GPL-3.0
-    Extendroid - Adds desktop-like multi-window support, on android os for smartphones. No license
-    GrooveLauncher - Windows 8 Metro-styled launcher that can uninstall apps using Shizuku
-    Language-Selector - Allows users to select individual app languages (Android 13+) Apache-2.0
-    LinkSheet - Restore the Android <12 Url-App-Link-Chooser with Material3 Modified MPL-2.0
-    Lockscreen Widgets IAP 💰 - Display widgets on the lockscreen. Shizuku is only required on Android 13 and later MIT (Source code)
-    MultiLocale - A simple app that enables you to add additional (or "unsupported") languages to your device's locale settings, if the OEM (Xiaomi) doesn't let you MIT
-    Repainter IAP 💰 - Install custom Material You designs on your device Proprietary
-    ShizuTools - Contains some easy-to-use tools to go beyond the level of control allowed by Android System GPL-3.0
-    SmartspacerPlugins - Plugins for Smartspacer GPL-3.0
-    System UI Tuner - View and modify hidden settings on Android devices MIT
-    TapTap - Port of the double tap on the back of the device feature from Android 12 to any Android 7.0+ device GPL-3.0
-    Taskbar - Use a start menu to access apps. Shizuku can unlock additional features Apache-2.0 (Source code)
-    zFont 3 Ads IAP 💰 - Emoji & Font Changer Proprietary
+- AAAD (IAP)
+- AlwaysOnDisplayToggle
+- AmbientMusicMod
+- AutoDark
+- AutoDND
+- Better Internet Tiles
+- Better Internet Tiles Libre
+- CarrierVanityName
+- ColorBlendr
+- DarQ
+- Dawn-Desktop-Addons
+- Extendroid
+- GrooveLauncher
+- Language-Selector
+- LinkSheet
+- Lockscreen Widgets (IAP)
+- MultiLocale
+- Repainter (IAP)
+- ShizuTools
+- SmartspacerPlugins
+- System UI Tuner
+- TapTap
+- Taskbar
+- zFont 3 (Ads & IAP)
 
-Development utilities
+Development Utilities
 
-    AIDE-Plus - Android IDE for phones AGPL-3.0
-    android_airplane_mode - Sample app that can switch airplane mode No license
-    AndroidAccounts - Dump package names of apps that have registered an account for a user. No license
-    AndroidLowLevelDetector - Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc. Apache-2.0 (Source code)
-    Cosmic-IDE IDE for JVM development. Uses Shizuku for an embedded shell - GPL-3.0
-    CurrentActivity - A current activity monitor GPL-3.0
-    get_event - Read /dev/input/event* No license
-    Geto - Apply device settings to your apps. GPL-3.0
-    LibChecker - An app to view libraries used in apps on your device. Uses Shizuku to determine the install source of other apps. Apache-2.0
-    LogFox - Yet another logcat reader for Android GPL-3.0
-    Logra - Material You logcat viewer for Android GPL-2.0
-    PyDroid 3 Ads IAP 💰 - IDE for Python 3 Proprietary
-    RootActivityLauncher Paid 💰 - Launch/interact with (un)exported activities, services, and receivers. Supports Shizuku alongside root. Proprietary (Source code)
-    SensorsOff - Enable/Disable device sensors via quick settings Apache-2.0
-    TakoStats IAP 💰 - FPS and performance overlay with detailed real-time system information Proprietary
-    wireless-adb-switch Widgets & quick settings tile to toggle wireless debugging (with KDE Connect integration) - GPL-3.0
+- AIDE-Plus
+- android_airplane_mode
+- AndroidAccounts
+- AndroidLowLevelDetector
+- Cosmic-IDE
+- CurrentActivity
+- get_event
+- Geto
+- LibChecker
+- LogFox
+- Logra
+- PyDroid 3 (Ads & IAP)
+- RootActivityLauncher (Paid)
+- SensorsOff
+- TakoStats (IAP)
+- wireless-adb-switch
 
-Device owner (DPM)
+Device Owner (DPM)
 
-    Dhizuku - Shizuku-inspired app that allows sharing DeviceOwner permissions to third-party apps GPL-3.0
-    OwnDroid - Manage your device with Device owner privileges GPL-3.0
+- Dhizuku
+- OwnDroid
 
-Display management
+Display Management
 
-    AG Displays Ads - Launch other apps on external displays (TV/Monitor) or desktop mode on virtual displays while the phone screen can be used for other purposes or turned off Proprietary
-    Android-Screener - A tool for easily adjusting screen resolution and frame rate MIT
+- AG Displays (Ads)
+- Android-Screener
 - ConnectScreen
 - Fold_Switcher
 - SecondScreen
