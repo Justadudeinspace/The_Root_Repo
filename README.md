@@ -12,7 +12,7 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
 
 # Rooting Apps
 Android 8+
-- <a href="https://github.com/topjohnwu/Magisk">Magisk</a>
+- <a href="https://github.com/topjohnwu/Magisk">Magisk</a> - <a href="[https://github.com/topjohnwu/Magisk](https://github.com/topjohnwu/Magisk/releases)">Releases</a>
 - Kitsune Mask
 - Apatch
 - KernalSU
