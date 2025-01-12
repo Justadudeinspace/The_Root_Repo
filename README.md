@@ -19,7 +19,9 @@ Some highlight features:
 - Magisk Modules: Modify read-only partitions by installing modules
 - MagiskBoot: The most complete tool for unpacking and repacking Android boot images
 - Zygisk: Run code in every Android applications' processe
-  s. - <a href="https://github.com/topjohnwu/Magisk/releases">Releases</a>
+  s.
+
+- <a href="https://github.com/topjohnwu/Magisk/releases">Releases</a>
   
 - Kitsune Mask
 - Apatch
