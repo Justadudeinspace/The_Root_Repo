@@ -233,11 +233,9 @@ Android 7-
 
 # Xposed Modules
 - LSposed - (Xposed Framework)
-- 
 
 # Rootless Modifications
-- Shizuku
-- 
+- Shizuku - The Core app needed for all rootless modifications. Shizuku grants users a limited access to the adb network on Android devices.
 
 # Installation Instructions
 
