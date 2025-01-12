@@ -262,7 +262,7 @@ Some highlight features:
 - LSposed - (Xposed Framework)
 
 # Rootless Modifications
-- Shizuku - The Core app needed for all rootless modifications. Shizuku grants users a limited access to the adb network on Android devices.
+- <a href="https://shizuku.rikka.app/">Shizuku</a> - The Core app needed for all rootless modifications. Shizuku grants users a limited access to the adb network on Android devices.
 
 # Installation Instructions
 
