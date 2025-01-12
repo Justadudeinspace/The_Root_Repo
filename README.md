@@ -265,6 +265,7 @@ Some highlight features:
 - <a href="https://shizuku.rikka.app/">Shizuku</a> - The Core app needed for all rootless modifications. Shizuku grants users a limited access to the adb network on Android devices.
 
 # Installation Instructions
+- <a href="https://topjohnwu.github.io/Magisk/install.html">Magisk Install Guide</a>
 
 
 # Resource Links
