@@ -255,34 +255,33 @@ Some highlight features:
 # Root Apps
 Ad Blocking
 
-    AdAway - Open-source ad blocker using hosts file. FOSS
-    AdClose - Prevents the initial loading of the advertising SDK within the application and intercept application advertising requests to block ads. FOSS [LP]
-    AdGuard - Comprehensive ad blocking solution. Proprietary
-    bindhosts - Systemless hosts for Apatch, KernelSU and Magisk that is fully standalone & self-updating. - FOSS [M]
-    Blokada - Advanced ad blocker with VPN functionality. FOSS
-    Cubic-AdBlock - A simple AdBlock module based on the hosts file. FOSS [M]
-    Re-Malwack - Protect your device from ads, malware, p*rn, gambling sites, fake news sites etc. FOSS [M]
-    StevenBlock - Ad Blocking Module for Android suporting Magisk, KernelSU & APatch. FOSS [M]
-    systemless-adblocker - Ultimate adblocker module derived from gloeyisk/systemless-hosts. FOSS [M]
-    Systemless hosts KernelSU module - Required module to use applications such as AdAway on KernelSU and APatch. FOSS
+- AdAway
+- AdClose
+- AdGuard
+- bindhosts
+- Blokada
+- Cubic-AdBlock
+- Re-Malwack
+- StevenBlock
+- systemless-adblocker
+- Systemless hosts KernelSU module
 
 App Management
-App Isolation and Cloning
 
-    Insular -Isolate your big brother app.A fork based on the excellent Island. FOSS
-    Island - App isolation and cloning. FOSS
-    Shelter - Isolate and clone apps. FOSS
+- Insular
+- Island
+- Shelter
 
 App Managers
 
-    App Manager - A full-featured package manager and viewer for Android. FOSS
-    AppOps - Control the hidden appops conveniently. Proprietary
-    Inure - An elegant and beautiful premium Android app manager for rooted and non-rooted devices. FOSS
-    Let Me Downgrade - Add support for downgrading apps on Android 12 through 15 QPR1. FOSS [LP]
-    Package Manager - A highly powerful app to manage both system and user apps installed on an Android device. FOSS
-    Hail - Disable / Hide / Suspend / Uninstall Android apps. FOSS
-    LeanData - Automatically manages the power-hungry radios on your device while the screen is off to significantly lengthen battery life. Proprietary
-    Zygisk Detach - Zygisk module to detach installed apps from Play Store, hooking binder. FOSS [M]
+- App Manager
+- AppOps
+- Inure
+- Let Me Downgrade [LP]
+- Package Manager
+- Hail
+- LeanData
+- Zygisk Detach
 
 App Markets
 
