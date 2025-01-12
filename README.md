@@ -1,6 +1,15 @@
 # The_Root_Repo
 A Full Compilation of all Resources Needed to Root, Mod, and Customize Android Devices.
 
+# Tools
+- Platform-Tools (adb & fastboot) - A shell based program for running commands from PC to Android Devices.
+
+- MTKClient - A shell based program for accessing the exploit in Mediatek Devices through BRom mode.
+
+- edl - A shell based program for accessing the exploit in Qualcomm Devices through edl mode.
+
+- Bugjaeger Premium (adb & fastboot) - An Android app for running adb & fastboot commands in an Android to Android tethered environment.
+
 # Rooting Apps
 Android 8+
 - Magisk
