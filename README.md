@@ -58,7 +58,7 @@ Some highlight features:
 
 - <a href="https://redwolfrecovery.github.io/">Red Wolf Recovery Project</a>
 
-- Pterodon Recovery Project
+- <a href="https://github.com/PterodonRecovery">Pterodon Recovery Project</a>
 
 # Custom Roms/Firmware
 - Advanced XPerience OS
