@@ -2,7 +2,8 @@
 A Full Compilation of all Resources Needed to Root, Mod, and Customize Android Devices.
 
 # Tools
-- Platform-Tools (adb & fastboot) - A shell based program for running commands from PC to Android Devices.
+
+<a href="https://developer.android.com/tools/releases/platform-tools">Platform-Tools</a> (adb & fastboot) - A shell based program for running commands from PC to Android Devices.
 
 - MTKClient - A shell based program for accessing the exploit in Mediatek Devices through BRom mode.
 
