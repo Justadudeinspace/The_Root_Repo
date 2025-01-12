@@ -780,5 +780,5 @@ Email: justadudeinspace4244@hotmail.com
 # License
 - GPL -3.0 license 
 
-[DRBCounter.zip](https://github.com/user-attachments/files/18391344/DRBCounter.zip)
+
 
