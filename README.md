@@ -45,3 +45,10 @@ Android 7-
 - XDA Forums
 - Hovatek Forums
 
+# Support & Contribute
+If you see something missing from The_Root_Repo, and you think it needs to be added to the list please contact me via email with complete details of the item in question.
+
+Email: justadudeinspace4244@hotmail.com 
+
+# License
+- GPL -3.0 license 
