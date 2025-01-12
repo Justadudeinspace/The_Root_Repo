@@ -393,7 +393,6 @@ Installer & App Stores
 - AuroraStore
 - BHub
 - Droid-ify
-    - fdroid_shizuku_privileged_extension
 - ffupdater
 - glassdown
 - InstallWithOptions
