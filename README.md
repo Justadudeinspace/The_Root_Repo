@@ -5,11 +5,11 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
 
 <a href="https://developer.android.com/tools/releases/platform-tools">Platform-Tools</a> (adb & fastboot) - A shell based program for running commands from PC to Android Devices.
 
-- MTKClient - A shell based program for accessing the exploit in Mediatek Devices through BRom mode.
+<a href="https://github.com/bkerler/mtkclient">MTKClient</a> - A shell based program for accessing the exploit in Mediatek Devices through BRom mode.
 
 - edl - A shell based program for accessing the exploit in Qualcomm Devices through edl mode.
 
-<a href="https://github.com/topjohnwu/Magisk">Bugjaeger Premium</a> (adb & fastboot) - An Android app for running adb & fastboot commands in an Android to Android tethered environment.
+<a href="https://mega.nz/file/yZsVWSpZ#Z7A-4J0syDe30-5VpPKahp4an7GN4s4LclPLO_3Y9_I">Bugjaeger Premium</a> (adb & fastboot) - An Android app for running adb & fastboot commands in an Android to Android tethered environment.
 
 # Rooting Apps
 Android 6+
