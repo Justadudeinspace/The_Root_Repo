@@ -28,7 +28,14 @@ Some highlight features:
 
 - <a href="https://github.com/HuskyDG/magisk-files/releases">Releases</a>
 
-- Apatch
+<a href="https://github.com/bmax121/APatch">APatch</a> is a new kernel-based root solution for Android devices.
+
+
+- Only supports the ARM64 architecture.
+- Only supports Android kernel versions 3.18 - 6.1
+
+- <a href="https://github.com/bmax121/APatch/releases/tag/10763">Releases</a>
+
 - KernalSU
 
 Android 5-
