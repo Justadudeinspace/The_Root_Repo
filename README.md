@@ -11,13 +11,21 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
 - Bugjaeger Premium (adb & fastboot) - An Android app for running adb & fastboot commands in an Android to Android tethered environment.
 
 # Rooting Apps
-Android 8+
-- <a href="https://github.com/topjohnwu/Magisk">Magisk</a> - <a href="https://github.com/topjohnwu/Magisk/releases">Releases</a>
+Android 6+
+<a href="https://github.com/topjohnwu/Magisk">Magisk</a> is a suite of open source software for customizing Android, supporting devices higher than Android 6.0.
+
+Some highlight features:
+- MagiskSU: Provide root access for applications
+- Magisk Modules: Modify read-only partitions by installing modules
+- MagiskBoot: The most complete tool for unpacking and repacking Android boot images
+- Zygisk: Run code in every Android applications' processe
+  s. - <a href="https://github.com/topjohnwu/Magisk/releases">Releases</a>
+  
 - Kitsune Mask
 - Apatch
 - KernalSU
 
-Android 7-
+Android 5-
 - KingRoot
 - KingoRoot
 - One Click Root
