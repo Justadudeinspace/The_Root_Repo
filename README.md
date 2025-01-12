@@ -42,5 +42,6 @@ Android 7-
 
 
 # Resource Links
-
+- XDA Forums
+- Hovatek Forums
 
