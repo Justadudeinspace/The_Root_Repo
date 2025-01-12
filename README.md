@@ -46,11 +46,16 @@ Some highlight features:
 - <a href="https://github.com/tiann/KernelSU/releases">Download</a>
 
 # Custom Recoveries
-- Team Win Recovery Project (TWRP)
-- Pitch Black Recovery Project
-- Orange Fox Recovery Project
-- SkyHawk Recovery Project
-- Red Wolf Recovery Project
+- <a href="https://twrp.me/#">Team Win Recovery Project (TWRP)</a>
+
+- <a href="https://github.com/PitchBlackRecoveryProject/manifest_pb">Pitch Black Recovery Project</a>
+
+- <a href="https://orangefox.download/">Orange Fox Recovery Project</a>
+
+- <a href="https://shrp.github.io/#/">SkyHawk Recovery Project</a>
+
+- <a href="https://redwolfrecovery.github.io/">Red Wolf Recovery Project</a>
+
 - Pterodon Recovery Project
 
 # Custom Roms/Firmware
