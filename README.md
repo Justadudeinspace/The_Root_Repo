@@ -22,13 +22,166 @@ Android 7-
 - Orange Fox Recovery Project
 - SkyHawk Recovery Project
 - Red Wolf Recovery Project
+- Pterodon Recovery Project
 
 # Custom Roms/Firmware
-- LineageOS
-- crDroid
-- Matrix
+- Advanced XPerience OS
+- AICP
+- AIM ROM
+- AlphaDroid
+- AlrightOS
+- AmogOS Rom
+- AmyROM
+- Ancient OS
+- AOKP
+- AOSDP
+- AOSiP
+- AOSP Extended
+- Aquari OS
+- Arrow OS
+- Atomic OS
+- BaikalOS
+- BananaDroid
+- BeastROMs
+- Benzo ROM
+- Bianca Project
+- Black Iron Project
+- Bliss ROMs
+- Bootleggers ROM
+- BsdkOS
+- CAF Extended
+- CalyxOS
+- CandyRoms
+- Carbon ROM
+- CatalystOS
+- Cesium OS
+- Cherish OS
+- CipherOS
+- Citrus CAF
+- Colt OS
+- ConquerOS
+- Corvus ROM
+- Cosmic OS
+- CrDroid
+- Cygnus ROM
+- Cypher OS
+- Derpfest
+- Descendant X
+- Dirty Unicorns
+- DivestOS
+- Dot OS
+- DroidX-UI
+- eFoundation
+- ElytraOS
+- Eternity OS
+- Evolution X
+- ExTHmUI
+- FireHound
+- Flamingo OS
+- Floko ROM
+- Fluid OS
+- Fork LineageOS
+- Freaky OS
+- Fusion OS
+- GhostOS
+- GrapheneOS
+- Halcyon Project
+- Halogen OS
+- Havoc OS
+- HentaiOS
+- HyconOS
+- Ion OS
+- IronOS Project
+- iodéOS
+- Kang OS
+- Komodo OS
+- Krypton Open Source Project
+- Legion OS
+- LightningFastRom
+- Lineage OS
+- Liquid Remix
+- LLuvia OS
+- LMODroid
+- Magnus OS
+- Mallu OS
+- Miku UI
+- MoKee ROM
+- MSM Xtended
+- Nethunter OS
+- NightskyROM
+- Nitrogen OS
+- Nusantara Project
+- Octavi OS
+- Omni ROM
+- OrionOS
+- PalladiumOS
+- Paranoid Android
+- PhoenixAOSP
+- Pixel Blaster OS
+- Pixel Dust
 - Pixel Experience
-- 
+- Pixel Project
+- PixelExtended ROM
+- PixelOS
+- PixelPlusUI
+- Pixys OS
+- POSP
+- Project 404
+- Project Arcana
+- Project Awaken
+- Project Blaze
+- Project Elixir
+- Project Kaleidoscope
+- Project Kasumi
+- Project Lighthouse
+- Project Matrixx
+- Project Mushroom
+- Project Radiant
+- Project Sakura
+- Project Streak
+- Project Titanium
+- Project Zephyrus
+- ProjectEverest
+- Proton AOSP
+- ReloadedOS
+- Resurrection Remix OS
+- ResurrectionRemix-Revived
+- Revenge OS
+- RisingOS
+- RohieOS
+- Scorpion ROM
+- SerasaOS
+- ShapeShift OS
+- SigmaDroid
+- SkyLineUI
+- SlimRoms
+- SomethingOS
+- SoniUI
+- SparkOS
+- Spice OS
+- Stag OS
+- StatiX OS
+- Superior OS
+- Syberia OS
+- TenXOS
+- Tequila OS
+- The Kraken Project
+- The Styx Project
+- The XPerience Project
+- Tipsy OS
+- Toxyc OS
+- UlimateOS
+- Validus OS
+- Viper OS
+- VoidUI
+- Voltage OS
+- WaveOS
+- Weeb Projekt
+- Xdroid CAF
+- Xdroid OS
+- Xenon HD
+- YAAP AOSP
+- ZeusOS
 
 # Root Apps
 
@@ -58,3 +211,4 @@ Email: justadudeinspace4244@hotmail.com
 
 # License
 - GPL -3.0 license 
+
