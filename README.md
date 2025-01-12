@@ -4,7 +4,7 @@
 # The_Root_Repo
 A Full Compilation of all Resources Needed to Root, Mod, and Customize Android Devices.
 
-# Tools
+## Tools
 
 <a href="https://developer.android.com/tools/releases/platform-tools">Platform-Tools</a> (adb & fastboot) - A shell based program for running commands from PC to Android Devices.
 
@@ -16,7 +16,7 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
 
 <a href="https://github.com/libxzr/FastbootEnhance">Fastboot Enhance</a> is a user-friendly Fastboot ToolBox & Payload Dumper for Windows.
 
-# Rooting Apps
+## Rooting Apps
 
 <a href="https://mega.nz/file/yZsVWSpZ#Z7A-4J0syDe30-5VpPKahp4an7GN4s4LclPLO_3Y9_I">Magisk</a> is a suite of open source software for customizing Android, supporting devices higher than Android 6.0.
 
@@ -50,7 +50,7 @@ Some highlight features:
 
 - <a href="https://github.com/tiann/KernelSU/releases">Download</a>
 
-# Custom Recoveries
+## Custom Recoveries
 - <a href="https://twrp.me/#">Team Win Recovery Project (TWRP)</a>
 
 - <a href="https://github.com/PitchBlackRecoveryProject/manifest_pb">Pitch Black Recovery Project</a>
@@ -63,7 +63,7 @@ Some highlight features:
 
 - <a href="https://github.com/PterodonRecovery">Pterodon Recovery Project</a>
 
-# Custom Roms/Firmware
+## Custom Roms/Firmware
 - Advanced XPerience OS
 - AICP
 - AIM ROM
@@ -222,7 +222,7 @@ Some highlight features:
 - YAAP AOSP
 - ZeusOS
 
-# GSI Roms/Firmware
+## GSI Roms/Firmware
 - /e/ OS
 - Ancient OS
 - Android S GSI
@@ -243,7 +243,7 @@ Some highlight features:
 - Pixel Experience
 - Project Elixir
 
-# MIUI Roms/Firmware
+## MIUI Roms/Firmware
 - Abhix MIUI
 - MIUI EliteRoms
 - MIUI EU
@@ -255,8 +255,8 @@ Some highlight features:
 - MIUI TR
 - MIUI VN
 
-# Root Apps
-Ad Blocking
+## Root Apps
+### Ad Blocking
 
 - AdAway
 - AdClose
@@ -269,13 +269,13 @@ Ad Blocking
 - systemless-adblocker
 - Systemless hosts KernelSU module
 
-App Management
+### App Management
 
 - Insular
 - Island
 - Shelter
 
-App Managers
+### App Managers
 
 - App Manager
 - AppOps
@@ -286,18 +286,18 @@ App Managers
 - LeanData
 - Zygisk Detach
 
-App Markets
+### App Markets
 
 - Aurora Store
 - Droid-ify
 - Neo Store
 
-App Permissions
+### App Permissions
 
 - Permission Ruler
 - PermissionManagerX
 
-App Modifications
+### App Modifications
 
 -Social Media Mods-
 
@@ -340,7 +340,7 @@ X/Twitter
 
 - Hachidori [LP]
 
-Other App Mods
+### Other App Mods
 
 - F*ck for VIP [LP]
 - IceCore [LP]
@@ -348,42 +348,42 @@ Other App Mods
 - Maps tweaks [LP]
 - NewHookVip [LP]
 
-Patching
+### Patching
 
 - Lucky Patcher
 - Revanced Manager
 
-Audio
+### Audio
 
 - NLSound
 - ViPER4Android FX Redesign
 
-Automation
+### Automation
 
     Automate - Lets you create custom automation workflows using flowcharts, enabling seamless management of tasks, files, and device settings. Proprietary
     MacroDroid - Easy to use automation app. Proprietary
     Tasker - An advanced and powerful automation app. Proprietary
 
-Backup and Restore
+### Backup & Restore
 
     DataBackup - DataBackup for Android 7.0+. FOSS
     DiskDigger - A powerful data recovery tool for Android devices. Proprietary
     Neo Backup - Powerful open-source backup solution. FOSS
     Swift Backup - Modern backup solution with cloud support. Proprietary
 
-Battery Management
+### Battery Management
 
     AccA - Advanced Charging Controller app. FOSS
     Battery Guru - Battery optimization and monitoring. Proprietary
     Xtreme-Battery-Saver - An extreme battery saver Magisk Module for users who want to really stretch their battery life. FOSS [M]
 
-Cleaning Apps
+### Cleaning Apps
 
     DirCleaner - A simple and practical cleaning tool. Proprietary
     Cache Cleaner - A simple tool to clean cache files on your device. FOSS
     SD Maid 2/SE - A file management tool for Android that specialises in maintenance. Its core purpose is freeing up space and removing unwanted data. FOSS
 
-Customizations
+### Customizations
 Boot Animations
 
     Bootanimation - A custom boot animation for Android. FOSS
@@ -401,7 +401,7 @@ Navigation
     NavTweaks - Fullscreen/Immersive Gesture Tweaks for Android 10-14. FOSS [M]
     Volume Key Track Control Module - An Xposed module that allows to skip and play/pause track with volume keys. FOSS [LP]
 
-OS Customization
+### OS Customization
 AOSP
 
     PixelXpert - A mixed Xposed+Magisk module, which is made to allow customizations that are not originally designed in AOSP. FOSS [M] [LP]
@@ -435,12 +435,12 @@ Theming
     Iconify - Customize your Android 12+ device easily. FOSS [M]
     Project Themer - Provides tools and features for rooted devices. Proprietary [M]
 
-Debloating
+### Debloating
 
     Canta - Uninstall any app without root using Shizuku (Needs Shizuku to be installed and running). FOSS
     De-Bloater - An application using the power of Magisk to debloat unwanted system apps!. FOSS
 
-Development and Debugging
+### Development and Debugging
 
     LADB - Local ADB shell. FOSS - Free Build
     Shizuku - Use system APIs directly with ADB/root privileges. FOSS
@@ -448,7 +448,7 @@ Development and Debugging
     Wireless ADB Switch - Quickly enable or disable Android's Wireless Debugging feature. Includes widgets and a quick settings tile for convenience. FOSS
     USB HID Client - Use your phone as a keyboard and mouse without any software on the other end. FOSS
 
-File Management
+### File Management
 
     Material Files - Modern file manager with root capabilities. FOSS
     MiXplorer - Feature-rich file manager. Proprietary
@@ -458,18 +458,18 @@ File Management
     Total Commander - A feature rich file maanger for Android supporting root and shizuku.For a better experince, please read this. Proprietary
     Xplore File Manager - A file manager with root support. Proprietary
 
-Kernel
+### Kernel
 
     EX Kernel Manager - Root tool for backup and flashing kernels, tweaking color, sound, gestures and other kernel settings. Proprietary
     Franco Kernel Manager - A complete toolbox for all devices with a rich that combines everything you need to manage, tweak and empower your device. Proprietary
     SmartPack-Kernel-Manager - A Kernel Manager. FOSS
 
-Network Tools
+### Network Tools
 
     VPN Hotspot - Share your VPN connection over hotspot or repeater. FOSS
     SimbaDroid - A simple SMB file server for Android. FOSS
 
-Privacy and Security
+### Privacy and Security
 
     AFWall+ - Iptables-based firewall. FOSS
     Amarok - Android application which enables you to hide your private files & apps with a single click - FOSS
@@ -477,7 +477,7 @@ Privacy and Security
     Flag Secure Patcher - Magisk module to patch service.jar on device to disable secure lock and screenshot listeners. FOSS [M]
     SensorsOff - Simple app to enable or disable privacy sensors(camera and microphone) on Miui/HyperOS. FOSS
 
-Root Specific
+### Root Specific
 Hide Root
 
     Hide My Applist - An Xposed module to intercept applist detections. FOSS [LP]
@@ -488,12 +488,12 @@ Hide Root
     Zygisk-Assistant - A Zygisk module to hide root for KernelSU, Magisk and APatch. FOSS [M]
     Zygisk Next - Standalone implementation of Zygisk, providing Zygisk API support for KernelSU and a replacement of Magisk's built-in Zygisk. Proprietary [M]
 
-Managers
+### Managers
 
     Magisk Manager - Manage Magisk modules and root permissions. FOSS
     MMRL - An Android app that helps manage your own modules repository. FOSS
 
-System Modifications
+### System Modifications
 
     AutoNight - Controlling Android's Dark Mode through environmental brightness. FOSS
     CorePatch - Disable signature verification For Android. FOSS [LP]
@@ -504,7 +504,7 @@ System Modifications
     Universal GMS Doze - Patches Google Play services app and certain processes/services to be able to use battery optimization. FOSS [M]
     Uperf-Game-Turbo - Userspace performance controller for Android. FOSS [M]
 
-Termux
+### Termux
 
     Termux - A terminal emulator application for Android OS extendible by variety of packages. FOSS
     Termux:API - Termux add-on app which exposes device functionality as API to command line programs. FOSS
@@ -514,7 +514,7 @@ Termux
     Termux:Tasker - Termux add-on app for integration with Tasker. FOSS
     Termux:Widget - Termux add-on app which adds shortcuts to commands on the home screen. FOSS
 
-Tools
+### Tools
 
     Device Info HW - A hardware and software information app for Android devices. Proprietary
     Hydrostellaire - A magisk module for devices running on Dimensity flagship platforms and OnePlus, Realme devices. FOSS [M]
@@ -527,35 +527,35 @@ Tools
     Root Activity Launcher - Launch activities directly from your home screen with root access. Proprietary [M]
     WiFi Password Viewer for MMRL - WiFi Password Viewer for MMRL. FOSS
 
-# Magisk Modules
+## Magisk Modules
 
 
-# Xposed Modules
+## Xposed Modules
 - LSposed - (Xposed Framework)
 
-# Rootless Modifications
+## Rootless Modifications
 - <a href="https://shizuku.rikka.app/">Shizuku</a> - The Core app needed for all rootless modifications. Shizuku grants users a limited access to the adb network on Android devices.
 
-# Rootless Modification Apps (Shizuku Required)
-Audio
+## Rootless Modification Apps (Shizuku Required)
+### Audio
 
 - RootlessJamesDSP
 
-Automation
+### Automation
 
 - AutoJs6
 - PhoneProfilesPlus
 - MacroDroid (Ads & IAP)
 - UbikiTouch (IAP)
 
-Communication
+### Communication
 
 - Lemmy Redirect
 - Mastodon Redirect
 - TxtNet-Browser
 - Bunny-Manager
 
-Customization
+### Customization
 
 - AAAD (IAP)
 - AlwaysOnDisplayToggle
@@ -582,7 +582,7 @@ Customization
 - Taskbar
 - zFont 3 (Ads & IAP)
 
-Development Utilities
+### Development Utilities
 
 - AIDE-Plus
 - android_airplane_mode
@@ -601,12 +601,12 @@ Development Utilities
 - TakoStats (IAP)
 - wireless-adb-switch
 
-Device Owner (DPM)
+### Device Owner (DPM)
 
 - Dhizuku
 - OwnDroid
 
-Display Management
+### Display Management
 
 - AG Displays (Ads)
 - Android-Screener
@@ -615,14 +615,14 @@ Display Management
 - SecondScreen
 - pixelify
 
-Entertainment
+### Entertainment
 
 - Aniyomi
 - BilibiliCacheVideoMerge
 - Mihon
 - Mihon/Tachiyomi
 
-File Management
+### File Management
 
 - AirData UAV
 - Amarok-Hider
@@ -639,7 +639,7 @@ File Management
 - X-Plore (Ads & IAP)
 - ZArchiver
 
-Games
+### Games
 
 - 90 FPS + 120 FPS & IPAD VIEW (Ads)
 - blocktopograph
@@ -651,7 +651,7 @@ Games
 - PGT+: Pro GFX, Launcher & Optimizer (Paid)
 - translatefgo
 
-Input
+### Input
 
 - Android-Show-Taps
 - Auto Cursor (IAP)
@@ -660,7 +660,7 @@ Input
 - RealMouse
 - XtMapper
 
-Installer & App Stores
+### Installer & App Stores
 
 - AuroraStore
 - BHub
@@ -674,7 +674,7 @@ Installer & App Stores
 - SAI
 - skydroid
 
-Miscellaneous
+### Miscellaneous
 
 - Anywhere
 - DSU-Sideloader
@@ -683,7 +683,7 @@ Miscellaneous
 - SimpleWear
 - Shizuku-API
 
-Network
+### Network
 
 - CellReader (Paid)
 - FindMyDevice
@@ -693,14 +693,14 @@ Network
 - WiFiList (Paid)
 - WiFiList (FOSS)
 
-Power Management
+### Power Management
 
 - Batt
 - Extinguish
 - rebootmenu
 - ScreenOff
 
-Software Management
+### Software Management
 
 - AppDash (Paid)
 - App Ops (Ads & IAP)
@@ -718,13 +718,13 @@ Software Management
 - Package Manager
 - UpgradeAll
 
-Terminals
+### Terminals
 
 - aShell
 - aShell You
 - ShizuShell
 
-Vendor-Specific Rootless Modification Apps 
+### Vendor-Specific Rootless Modification Apps 
 
 Google Pixel
 
@@ -746,26 +746,26 @@ MIUI
 - Flyme-FreeForm
 - NavigationSwitcher
 
-Filesystem
+### Filesystem
 
 - LintFile
 - nextgenfs
 - shizuku_apk_installer
 
-System
+### System
 
 - ServiceManagerCompat
 
-Power
+### Power
 
 - PowerAct
 
 
-# Installation Instructions & Guides
+## Installation Instructions & Guides
 - <a href="https://topjohnwu.github.io/Magisk/install.html">Magisk Install Guide</a>
 
 
-# Resource Links
+## Resource Links
 - <a href="https://xdaforums.com/">XDA Forums</a> is the #1 Android Developer Forums. Made by Developers for Developers. XDA Forums has device specific instructions for all things concerning modding and Android development.
 
 - <a href="https://www.hovatek.com/forum/">Hovatek Forums</a> is a very Noob friendly Android modding forums.
