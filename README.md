@@ -12,7 +12,6 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
 <a href="https://mega.nz/file/yZsVWSpZ#Z7A-4J0syDe30-5VpPKahp4an7GN4s4LclPLO_3Y9_I">Bugjaeger Premium</a> (adb & fastboot) - An Android app for running adb & fastboot commands in an Android to Android tethered environment.
 
 # Rooting Apps
-Android 6+
 
 <a href="https://mega.nz/file/yZsVWSpZ#Z7A-4J0syDe30-5VpPKahp4an7GN4s4LclPLO_3Y9_I">Magisk</a> is a suite of open source software for customizing Android, supporting devices higher than Android 6.0.
 
@@ -45,14 +44,6 @@ Some highlight features:
 - Currently, only arm64-v8a and x86_64 are supported.
 
 - <a href="https://github.com/tiann/KernelSU/releases">Download</a>
-
-Android 5-
-- KingRoot
-- KingoRoot
-- One Click Root
-- Root Genius
-- FramaRoot
-- SRSRoot
 
 # Custom Recoveries
 - Team Win Recovery Project (TWRP)
