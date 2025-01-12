@@ -271,7 +271,7 @@ Android 5-
 
 
 # Resource Links
-- <a href="https://xdaforums.com/">XDA Forums</a> is the #1 Android Developer Forums. Made by Developers for Developers. xDA Forums has device specific instructions for all things concerning modding and Android development.
+- <a href="https://xdaforums.com/">XDA Forums</a> is the #1 Android Developer Forums. Made by Developers for Developers. XDA Forums has device specific instructions for all things concerning modding and Android development.
 
 - <a href="https://www.hovatek.com/forum/">Hovatek Forums</a> is a very Noob friendly Android modding forums.
 
