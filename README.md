@@ -24,6 +24,10 @@ Android 7-
 - Red Wolf Recovery Project
 
 # Custom Roms/Firmware
+- LineageOS
+- crDroid
+- Matrix
+- Pixel Experience
 - 
 
 # Root Apps
@@ -33,10 +37,12 @@ Android 7-
 
 
 # Xposed Modules
-
+- LSposed (Xposed Framework)
+- 
 
 # Rootless Modifications
-
+- Shizuku
+- 
 
 # Installation Instructions
 
