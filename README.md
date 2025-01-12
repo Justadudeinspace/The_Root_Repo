@@ -285,73 +285,75 @@ App Managers
 
 App Markets
 
-    Aurora Store - A Google Play Store client to search, view app details, and download APKs directly to your device. FOSS
-    Droid-ify - F-Droid client with Material UI and auto updating apps using root. FOSS
-    Neo Store - An F-Droid client with modern UI and an arsenal of extra features. FOSS
+- Aurora Store
+- Droid-ify
+- Neo Store
 
 App Permissions
 
-    Permission Ruler - Automatically manages app permissions when the screen is off for enhanced privacy. Proprietary [M]
-    PermissionManagerX - eXtended Permission Manager for Android to view and set Manifest Permissions and AppOps. FOSS [M]
+- Permission Ruler
+- PermissionManagerX
 
-App Mods
-Social Media Mods
+App Modifications
+
+-Social Media Mods-
+
 Bilibili
 
-    MBGA - A Xposed module to Make Bilibili Great Again. FOSS [LP]
+- MBGA [LP]
 
 Discord
 
-    BunnyXposed - An Xposed module to inject Bunny, a mod for Discord's mobile apps. FOSS [M]
+- BunnyXposed [LP]
 
 Instagram
 
-    InstaEclipse - Adds Features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode to Instagram. FOSS [LP]
+- InstaEclipse [LP]
 
 Line
 
-    LineXtra - Removes Ads and Tabs from the LINE. FOSS [LP]
+- LineXtra [LP]
 
 QQ
 
-    NewQStory - Xposed QQ module. Proprietry [LP]
+- NewQStory [LP]
 
 Telegram
 
-    Re-Telegram - Adds features like AntiAntiForward, AntiRecall, NoSponsoredMessages, ProhibitChannelSwitching and many more to various Telegram clients. FOSS [LP]
-    TeleVip - A module for modifying Telegram with Hide seen status, unlocking channel restrictions etc. Proprietary [LP]
+- Re-Telegram [LP]
+- TeleVip [LP]
 
 Wechat
 
-    X - Add extra features to Wechat. FOSS [LP]
-    XChat - A customization mod for Wechat. FOSS [LP]
+- X [LP]
+- XChat [LP]
 
 Whatsapp
 
-    WA Enhancer - A Xposed module that enhances your WhatsApp experience. FOSS [LP]
-    Wa Revamp - Add various functions like download staus and view once, hide read message, Statuses and Archived Chats to official WhatsApp. FOSS [LP]
+- WA Enhancer [LP]
+- Wa Revamp [LP]
 
 X/Twitter
 
-    Hachidori - Adds downloading media, hidding ads and other privacy features to X (formerly Twitter). Proprietary [LP]
+- Hachidori [LP]
 
 Other App Mods
 
-    F*ck for VIP - A module to unlock some software memberships and remove ads.Check releases section for list of supported apps. FOSS [LP]
-    IceCore - Integrates various fun functions, supports obtaining VIP, removing ads, and other functions. FOSS [LP]
-    Keyboard GPT - Lets you integrate Generative AI like ChatGPT in keyboard. FOSS [LP]
-    Maps tweaks - Collection of the maps UI tweaks for Google maps, Yandex maps and Yandex Navi. Proprietary [LP]
-    NewHookVip - Xposed module for unlocking some App memberships and adding some extended functions. Check releases section for list of supported apps. FOSS [LP]
+- F*ck for VIP [LP]
+- IceCore [LP]
+- Keyboard GPT [LP]
+- Maps tweaks [LP]
+- NewHookVip [LP]
 
 Patching
 
-    Lucky Patcher - App patcher and modifier (Use with caution) . Proprietary
-    Revanced Manager - Modify YouTube, Youtube Music, spotify and many more with additional features. FOSS
+- Lucky Patcher
+- Revanced Manager
 
 Audio
 
-    NLSound - Magisk module for improving audio and microphone quality in your Snapdragon SoC device. FOSS [M]
-    ViPER4Android FX Redesign - An audio enhancement software that provides users with a wide range of customizable sound options. It allows to improve the audio quality by offering features such as equalizer settings, surround sound effects, bass boost, and more. Proprietary [M]
+- NLSound
+- ViPER4Android FX Redesign
 
 Automation
 
