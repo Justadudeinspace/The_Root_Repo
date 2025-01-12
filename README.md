@@ -213,7 +213,7 @@ Android 7-
 - Pixel Experience
 - Project Elixir
 
-# MIUI Roma/Firmware
+# MIUI Roms/Firmware
 - Abhix MIUI
 - MIUI EliteRoms
 - MIUI EU
