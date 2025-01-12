@@ -12,7 +12,7 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
 
 # Rooting Apps
 Android 6+
-<a href="https://github.com/topjohnwu/Magisk">Magisk</a> is a suite of open source software for customizing Android, supporting devices higher than Android 6.0.
+- <a href="https://github.com/topjohnwu/Magisk">Magisk</a> is a suite of open source software for customizing Android, supporting devices higher than Android 6.0.
 
 Some highlight features:
 - MagiskSU: Provide root access for applications
