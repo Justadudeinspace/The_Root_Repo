@@ -204,6 +204,18 @@ Android 7-
 - Pixel Experience
 - Project Elixir
 
+# MIUI ROM/Firmware List 
+- Abhix MIUI
+- MIUI EliteRoms
+- MIUI EU
+- MIUI Global
+- MIUI OneOS
+- MIUI Pro
+- MIUI Reborn
+- MIUI RevOS
+- MIUI TR
+- MIUI VN
+
 # Root Apps
 
 
