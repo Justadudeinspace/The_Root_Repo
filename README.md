@@ -264,7 +264,7 @@ Some highlight features:
 # Rootless Modifications
 - <a href="https://shizuku.rikka.app/">Shizuku</a> - The Core app needed for all rootless modifications. Shizuku grants users a limited access to the adb network on Android devices.
 
-# Rootless Modification Apps
+# Rootless Modification Apps (Shizuku Required)
 Audio
 
 - RootlessJamesDSP
