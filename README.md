@@ -11,6 +11,8 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
 
 <a href="https://mega.nz/file/yZsVWSpZ#Z7A-4J0syDe30-5VpPKahp4an7GN4s4LclPLO_3Y9_I">Bugjaeger Premium</a> (adb & fastboot) - An Android app for running adb & fastboot commands in an Android to Android tethered environment.
 
+<a href="https://github.com/libxzr/FastbootEnhance">Fastboot Enhance</a> is a user-friendly Fastboot ToolBox & Payload Dumper for Windows.
+
 # Rooting Apps
 
 <a href="https://mega.nz/file/yZsVWSpZ#Z7A-4J0syDe30-5VpPKahp4an7GN4s4LclPLO_3Y9_I">Magisk</a> is a suite of open source software for customizing Android, supporting devices higher than Android 6.0.
