@@ -192,7 +192,7 @@ Android 7-
 - YAAP AOSP
 - ZeusOS
 
-# GSI Rom/Firmware List
+# GSI Roms/Firmware
 - /e/ OS
 - Ancient OS
 - Android S GSI
@@ -213,7 +213,7 @@ Android 7-
 - Pixel Experience
 - Project Elixir
 
-# MIUI ROM/Firmware List 
+# MIUI Roma/Firmware
 - Abhix MIUI
 - MIUI EliteRoms
 - MIUI EU
