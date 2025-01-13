@@ -1,10 +1,27 @@
-(Page Under Construction)
+# (Page Under Construction)
 
 ![IMG_20240206_110221_843](https://github.com/user-attachments/assets/81de3b98-810f-4b57-a972-fb8a5f7d4c11)
 
 
 # The_Root_Repo
 A Full Compilation of all Resources Needed to Root, Mod, and Customize Android Devices.
+
+# Table of Contents
+  - Tools
+  - Rooting Apps
+  - Custom Recoveries
+  - Custom Roms/Firmware
+  - GSI Roms/Firmware
+  - MIUI Roms/Firmware
+  - Root Apps
+  - Magisk Modules
+  - Xposed Modules
+  - Rootless Modifications
+  - Rootless Modification Apps
+  - Installation Instructions & Guides
+  - Resource Links
+- Support & Contribute
+- License
 
 ## Tools
 
