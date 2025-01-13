@@ -682,26 +682,27 @@ Hide Root
 
 ### Installer & App Stores
 
-- AuroraStore
-- BHub
-- Droid-ify
-- ffupdater
-- glassdown
-- InstallWithOptions
-- IzzyOnDroid
-- Obtainium
-- PI
-- SAI
-- skydroid
+- [AuroraStore](https://f-droid.org/en/packages/com.aurora.store/)
+- [BHub](https://github.com/B1ays/BHub)
+- [Droid-ify](https://f-droid.org/packages/com.looker.droidify/)
+- [fdroid_shizuku_privileged_extension](https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo/)
+- [ffupdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater/)
+- [glassdown](https://github.com/Sinneida/glassdown)
+- [InstallWithOptions](https://github.com/zacharee/InstallWithOptions)
+- [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid)
+- [Obtainium](https://github.com/ImranR98/Obtainium)
+- [PI](https://github.com/SanmerApps/PI)
+- [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/)
+- [skydroid](https://github.com/redsolver/skydroid)
 
 ### Miscellaneous
 
-- Anywhere
-- DSU-Sideloader
-- dualapp-mediastore-compatibility
-- LSPatch
-- SimpleWear
-- Shizuku-API
+- [Anywhere](https://github.com/zhaobozhen/Anywhere-/)
+- [DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader)
+- [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility)
+- [LSPatch](https://github.com/JingMatrix/LSPatch)
+- [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear)
+- [Shizuku-API](https://github.com/RikkaApps/Shizuku-API)
 
 ### Network
 
