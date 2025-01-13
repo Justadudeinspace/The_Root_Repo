@@ -705,44 +705,43 @@ Hide Root
 
 ### Network
 
-- CellReader (Paid)
-- FindMyDevice
-- Hostman Root
-- NaiveproxyForAndroid
-- PrivateDNSAndroid
-- WiFiList (Paid)
-- WiFiList (FOSS)
+- [CellReader](https://play.google.com/store/apps/details?id=dev.zwander.cellreader)
+- [FindMyDevice](https://gitlab.com/Nulide/findmydevice)
+- [Hostman](https://github.com/LinZong/Hostman)
+- [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid)
+- [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid)
+- [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist)
+    - [WiFiList (FOSS)](https://github.com/jaredcat/WiFiList)
 
 ### Power Management
 
-- Batt
-- Extinguish
-- rebootmenu
-- ScreenOff
+- [Batt](https://gitlab.com/narektor/batt)
+- [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish)
+- [rebootmenu](https://github.com/ryuunoakaihitomi/rebootmenu)
+- [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff)
 
 ### Software Management
 
-- AppDash (Paid)
-- App Ops (Ads & IAP)
-- Blocker
-- Canta
-- DisabledLauncher
-- FreezeYou
-- Hail Freeze
-- Ice Box (IAP)
-- Inure App Manager (IAP)
-- Insular
-- Island
-- krude
-- MMRL Root
-- Package Manager
-- UpgradeAll
+- [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard)
+- [App Ops](https://play.google.com/store/apps/details?id=rikka.appops)
+- [Blocker](https://github.com/lihenggui/blocker)
+- [Canta](https://github.com/samolego/Canta)
+- [DisabledLauncher](https://github.com/voruti/DisabledLauncher)
+- [FreezeYou](https://f-droid.org/packages/cf.playhi.freezeyou/)
+- [Hail](https://f-droid.org/packages/com.aistra.hail/)
+- [Ice Box](https://play.google.com/store/apps/details?id=com.catchingnow.icebox)
+- [Inure App Manager](https://play.google.com/store/apps/details?id=app.simple.inure.play)
+- [Insular](https://f-droid.org/packages/com.oasisfeng.island.fdroid/)
+- [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island)
+- [krude](https://github.com/KusStar/krude)
+- [Package Manager](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager)
+- [UpgradeAll](https://f-droid.org/packages/net.xzos.upgradeall/)
 
 ### Terminals
 
-- aShell
-- aShell You
-- ShizuShell
+- [aShell](https://gitlab.com/sunilpaulmathew/ashell)
+    - [aShell You](https://github.com/DP-Hridayan/aShellYou)
+- [ShizuShell](https://play.google.com/store/apps/details?id=com.noxinfinity.shell)
 
 ### Vendor-Specific Rootless Modification Apps 
 
