@@ -793,6 +793,11 @@ MIUI
 
 - <a href="https://www.hovatek.com/twrpbuilder/">Hovatek TWRP Builder</a> is an online TWRP compiler. It literally builds custom recoveries for compatible devices.
 
+# Author Recommended Apps
+- [Seal](https://github.com/JunkFood02/Seal) - Best Video/Audio Downloader
+- [FlashDim](https://github.com/cyb3rko/flashdim) - Control the brightness of the Android flashlight
+- [System Power](https://xdaforums.com/t/app-8-0-tool-system-power-system-functions-in-a-simple-and-intuitive-user-interface.4248221/) - (Root & Rootless) Quick access to the quick settings through a toast like pop-up.
+
 # Support & Contribute
 If you see something missing from The_Root_Repo, or if you find any dead links, please contact me via email with complete details of the item in question.
 
