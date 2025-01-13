@@ -804,7 +804,7 @@ MIUI
 - [fynks](https://github.com/fynks) / [awesome-android-root](https://github.com/fynks/awesome-android-root) - Source of the Lot of Root Apps List. Visit for more detailed information on Root Apps.
 - [musabcel](https://github.com/musabcel) / [android_rom_list](https://github.com/musabcel/android_rom_list) - Source of the Lot of Custom Roms/Firmware List.
 - [Androidacy](https://www.androidacy.com/) - Source of much of the Xposed/Magisk Modules.
-- [Magisk Modules Alternative Repository](https://github.com/Magisk-Modules-Alt-Repo/) - Source of much of the Xposed/Magisk Modules
+- [Magisk Modules Alternative Repository](https://github.com/Magisk-Modules-Alt-Repo/) - Source of much of the Xposed/Magisk Modules.
 
 # Author Recommended Apps
 - [Seal](https://github.com/JunkFood02/Seal) - Best Android Video/Audio Downloader based on yt-dlp
