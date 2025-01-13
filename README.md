@@ -796,6 +796,10 @@ MIUI
 
 - <a href="https://www.hovatek.com/twrpbuilder/">Hovatek TWRP Builder</a> is an online TWRP compiler. It literally builds custom recoveries for compatible devices.
 
+# Credit
+- [timschneeb](https://github.com/timschneeb) / [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Source of the Shizuku Lot of Rootless Modification Apps List. Visit for more detailed information on Shizuku.
+- [fynks](https://github.com/fynks) / [awesome-android-root](https://github.com/fynks/awesome-android-root) - Source of the Lot of Root Apps List. Visit for more detailed information on Root Apps.
+
 # Author Recommended Apps
 - [Seal](https://github.com/JunkFood02/Seal) - Best Android Video/Audio Downloader based on yt-dlp
 - [FlashDim](https://github.com/cyb3rko/flashdim) - Control the brightness of the Android flashlight
