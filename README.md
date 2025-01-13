@@ -21,6 +21,7 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
     - [Rootless Modification Apps](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#rootless-modification-apps-shizuku-required)
     - [Installation Instructions & Guides](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#installation-instructions--guides)
     - [Resource Links](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#resource-links)
+- [Authoer Recommended Apps](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#author-recommended-apps)
 - [Support & Contribute](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#support--contribute)
 - [License](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#license)
 
