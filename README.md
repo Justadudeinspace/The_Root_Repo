@@ -789,7 +789,7 @@ MIUI
 - <a href="https://www.hovatek.com/twrpbuilder/">Hovatek TWRP Builder</a> is an online TWRP compiler. It literally builds custom recoveries for compatible devices.
 
 # Support & Contribute
-If you see something missing from The_Root_Repo, and you think it needs to be added to the list please contact me via email with complete details of the item in question.
+If you see something missing from The_Root_Repo, or if you find any dead links, please contact me via email with complete details of the item in question.
 
 justadudeinspace4244@hotmail.com
 
