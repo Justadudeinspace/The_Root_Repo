@@ -812,7 +812,7 @@ MIUI
 - [System Power](https://xdaforums.com/t/app-8-0-tool-system-power-system-functions-in-a-simple-and-intuitive-user-interface.4248221/) - `Root & Rootless` Quick access to the quick settings through a toast like pop-up
 
 # Support & Contribute
-If you see something missing from The_Root_Repo, or if you find any dead links, please contact me via email with complete details of the item in question.
+If you see something missing from [The_Root_Repo](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master), or if you find any dead links, please contact me via email with complete details of the item in question.
 
 justadudeinspace4244@hotmail.com
 
