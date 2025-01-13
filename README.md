@@ -28,7 +28,10 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
 - [License](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#license)
 
 ## Glossary
+- `[Root]` = Gained access to the Root files of the subsystem
+- `[Rootless]` = Doesn't require Root for operation
 - `[XP]` = Xposed Module
+- `[FOSS]` = Free Open Source Software
 
 ## Tools
 
