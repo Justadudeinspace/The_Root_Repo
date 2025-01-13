@@ -306,7 +306,7 @@ Some highlight features:
 - App Manager
 - AppOps
 - Inure
-- Let Me Downgrade [LP]
+- Let Me Downgrade `[XP]`
 - Package Manager
 - Hail
 - LeanData
@@ -325,54 +325,54 @@ Some highlight features:
 
 ### App Modifications
 
--Social Media Mods-
+`Social Media Mods`
 
-Bilibili
+- `Bilibili`
 
-- MBGA [LP]
+- MBGA `[XP]`
 
-Discord
+- `Discord`
 
-- BunnyXposed [LP]
+- BunnyXposed `[XP]`
 
-Instagram
+- `Instagram`
 
-- InstaEclipse [LP]
+- InstaEclipse `[XP]`
 
-Line
+- `Line`
 
-- LineXtra [LP]
+- LineXtra `[XP]`
 
-QQ
+- `QQ`
 
-- NewQStory [LP]
+- NewQStory `[XP]`
 
-Telegram
+- `Telegram`
 
-- Re-Telegram [LP]
-- TeleVip [LP]
+- Re-Telegram `[XP]`
+- TeleVip `[XP]`
 
-Wechat
+- `Wechat`
 
-- X [LP]
-- XChat [LP]
+- X `[XP]`
+- XChat `[XP]`
 
-Whatsapp
+- `Whatsapp`
 
-- WA Enhancer [LP]
-- Wa Revamp [LP]
+- WA Enhancer `[XP]`
+- Wa Revamp `[XP]`
 
-X/Twitter
+- `X/Twitter`
 
-- Hachidori [LP]
+- Hachidori `[XP]`
 
 ### Other App Mods
 
-- F*ck for VIP [LP]
-- IceCore [LP]
-- Keyboard GPT [LP]
-- Maps tweaks [LP]
-- NewHookVip [LP]
+- F*ck for VIP `[XP]`
+- IceCore `[XP]`
+- Keyboard GPT `[XP]`
+- Maps tweaks `[XP]`
+- NewHookVip `[XP]`
 
 ### Patching
 
@@ -425,35 +425,35 @@ Launchers
 Navigation
 
 - NavTweaks
-- Volume Key Track Control Module [LP]
+- Volume Key Track Control Module `[XP]`
 
 ### OS Customization
-AOSP
+- `AOSP`
 
-- PixelXpert [LP]
+- PixelXpert `[XP]`
 
-ColorOS
+- `ColorOS`
 
-- LuckyTool [LP]
+- LuckyTool `[XP]`
 
-Global
+- `Global`
 
 - SystemUI Tuner
 
-HyperOS
+- `HyperOS`
 
-- ClipboardList [LP]
-- HyperCeiler [LP]
-- Hyper Helper [LP]
-- HyperStar [LP]
-- MIUIqol [LP]
-- Pengeek [LP]
+- ClipboardList `[XP]`
+- HyperCeiler `[XP]`
+- Hyper Helper `[XP]`
+- HyperStar `[XP]`
+- MIUIqol `[XP]`
+- Pengeek `[XP]`
 
-Oxygen OS
+- `Oxygen OS`
 
-- Oxygen-Customizer [LP]
+- Oxygen-Customizer `[XP]`
 
-Theming
+### Theming
 
 - ColorBlendr
 - ColorOS Notify Icon
@@ -497,14 +497,14 @@ Theming
 
 - AFWall+
 - Amarok
-- Enable Screenshot [LP]
+- Enable Screenshot `[XP]`
 - Flag Secure Patcher
 - SensorsOff
 
 ### Root Specific
 Hide Root
 
-- Hide My Applist [LP]
+- Hide My Applist `[XP]`
 - Play Integrity Fix
 - ReZygisk
 - Shamiko
@@ -521,11 +521,11 @@ Hide Root
 ### System Modifications
 
 - AutoNight
-- CorePatch [LP]
+- CorePatch `[XP]`
 - Disable Rotation Button
-- KnoxPatch [LP]
+- KnoxPatch `[XP]`
 - Open WebView
-- Thanox [LP]
+- Thanox `[XP]`
 - Universal GMS Doze
 - Uperf-Game-Turbo
 
