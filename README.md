@@ -799,7 +799,7 @@ MIUI
 
 # Credit
 - [topjohnwu](https://github.com/topjohnwu) / [Magisk](https://github.com/topjohnwu/Magisk) - Source and Creator of Magisk.
-- [bkerler](https://github.com/bkerler) / [mtkclient](https://github.com/bkerler/mtkclient) / [edl](https://github.com/bkerler/edl) - Source and Creator of the Exploit Tools.
+- [bkerler](https://github.com/bkerler) / [MTKClient](https://github.com/bkerler/mtkclient) / [edl](https://github.com/bkerler/edl) - Source and Creator of the Exploit Tools.
 - [timschneeb](https://github.com/timschneeb) / [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Source of the Shizuku Lot of Rootless Modification Apps List. Visit for more detailed information on Shizuku.
 - [fynks](https://github.com/fynks) / [awesome-android-root](https://github.com/fynks/awesome-android-root) - Source of the Lot of Root Apps List. Visit for more detailed information on Root Apps.
 - [musabcel](https://github.com/musabcel) / [android_rom_list](https://github.com/musabcel/android_rom_list) - Source of the Lot of Custom Roms/Firmware List.
