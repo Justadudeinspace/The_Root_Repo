@@ -329,42 +329,42 @@ Some highlight features:
 
 - `Bilibili`
 
-- MBGA `[XP]`
+    - MBGA `[XP]`
 
 - `Discord`
 
-- BunnyXposed `[XP]`
+    - BunnyXposed `[XP]`
 
 - `Instagram`
 
-- InstaEclipse `[XP]`
+    - InstaEclipse `[XP]`
 
 - `Line`
 
-- LineXtra `[XP]`
+    - LineXtra `[XP]`
 
 - `QQ`
 
-- NewQStory `[XP]`
+    - NewQStory `[XP]`
 
 - `Telegram`
 
-- Re-Telegram `[XP]`
-- TeleVip `[XP]`
+    - Re-Telegram `[XP]`
+    - TeleVip `[XP]`
 
 - `Wechat`
 
-- X `[XP]`
-- XChat `[XP]`
+    - X `[XP]`
+    - XChat `[XP]`
 
 - `Whatsapp`
 
-- WA Enhancer `[XP]`
-- Wa Revamp `[XP]`
+    - WA Enhancer `[XP]`
+    - Wa Revamp `[XP]`
 
 - `X/Twitter`
 
-- Hachidori `[XP]`
+    - Hachidori `[XP]`
 
 ### Other App Mods
 
