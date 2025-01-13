@@ -35,13 +35,13 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
 
 ## Tools
 
-<a href="https://developer.android.com/tools/releases/platform-tools">Platform-Tools</a> `adb & fastboot` - A shell based program for running commands from PC to Android Devices.
+<a href="https://developer.android.com/tools/releases/platform-tools">Platform-Tools</a> `[adb & fastboot]` - A shell based program for running commands from PC to Android Devices.
 
 <a href="https://github.com/bkerler/mtkclient">MTKClient</a> - A shell based program for accessing the exploit in Mediatek Devices through BRom mode.
 
 <a href="https://github.com/bkerler/edl">edl</a> - A shell based program for accessing the exploit in Qualcomm Devices through edl mode.
 
-<a href="https://mega.nz/file/yZsVWSpZ#Z7A-4J0syDe30-5VpPKahp4an7GN4s4LclPLO_3Y9_I">Bugjaeger Premium</a> `adb & fastboot` - An Android app for running adb & fastboot commands in an Android to Android tethered environment.
+<a href="https://mega.nz/file/yZsVWSpZ#Z7A-4J0syDe30-5VpPKahp4an7GN4s4LclPLO_3Y9_I">Bugjaeger Premium</a> `[adb & fastboot]` - An Android app for running adb & fastboot commands in an Android to Android tethered environment.
 
 <a href="https://github.com/libxzr/FastbootEnhance">Fastboot Enhance</a> is a user-friendly Fastboot ToolBox & Payload Dumper for Windows.
 
@@ -817,7 +817,7 @@ Hide Root
 # Author Recommended Apps
 - [Seal](https://github.com/JunkFood02/Seal) - Best Android Video/Audio Downloader based on yt-dlp
 - [FlashDim](https://github.com/cyb3rko/flashdim) - Control the brightness of the Android flashlight
-- [System Power](https://xdaforums.com/t/app-8-0-tool-system-power-system-functions-in-a-simple-and-intuitive-user-interface.4248221/) - `Root & Rootless` Quick access to the quick settings through a toast like pop-up
+- [System Power](https://xdaforums.com/t/app-8-0-tool-system-power-system-functions-in-a-simple-and-intuitive-user-interface.4248221/) - `[Root & Rootless]` Quick access to the quick settings through a toast like pop-up
 
 # Support & Contribute
 If you see something missing from [The_Root_Repo](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master), or if you find any dead links, please contact me via email with complete details of the item in question.
