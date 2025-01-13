@@ -555,48 +555,48 @@ Hide Root
 ## Rootless Modification Apps (Shizuku Required)
 ### Audio
 
-- RootlessJamesDSP
+- [RootlessJamesDSP](https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp&utm_source=github&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
 ### Automation
 
-- AutoJs6
-- PhoneProfilesPlus
-- MacroDroid (Ads & IAP)
-- UbikiTouch (IAP)
+- [AutoJs6](https://github.com/SuperMonster003/AutoJs6)
+- [PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus)
+- [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid)
+- [UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch)
 
 ### Communication
 
-- Lemmy Redirect
-- Mastodon Redirect
-- TxtNet-Browser
-- Bunny-Manager
+- [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect)
+- [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect)
+- [TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser)
+- [Bunny-Manager](https://github.com/pyoncord/BunnyManager)
 
 ### Customization
 
-- AAAD (IAP)
-- AlwaysOnDisplayToggle
-- AmbientMusicMod
-- AutoDark
-- AutoDND
-- Better Internet Tiles
-- Better Internet Tiles Libre
-- CarrierVanityName
-- ColorBlendr
-- DarQ
-- Dawn-Desktop-Addons
-- Extendroid
-- GrooveLauncher
-- Language-Selector
-- LinkSheet
-- Lockscreen Widgets (IAP)
-- MultiLocale
-- Repainter (IAP)
-- ShizuTools
-- SmartspacerPlugins
-- System UI Tuner
-- TapTap
-- Taskbar
-- zFont 3 (Ads & IAP)
+- [AAAD](https://github.com/shmykelsa/AAAD)
+- [AlwaysOnDisplayToggle](https://f-droid.org/packages/org.alberto97.aodtoggle/)
+- [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod)
+- [AutoDark](https://f-droid.org/packages/me.ranko.autodark/)
+- [AutoDND](https://f-droid.org/packages/moe.dic1911.autodnd/)
+- [Better Internet Tiles](https://play.google.com/store/apps/details?id=be.casperverswijvelt.unifiedinternetqs)
+    - [Better Internet Tiles Libre](https://github.com/D3SOX/Better-Network-Tiles-Libre)
+- [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName)
+- [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr)
+- [DarQ](https://github.com/KieronQuinn/DarQ)
+- [Dawn-Desktop-Addons](https://github.com/Dawncraft/Dawn-Desktop-Addons)
+- [Extendroid](https://github.com/legendsayantan/Extendroid)
+- [GrooveLauncher](https://github.com/groovelauncher/GrooveLauncher)
+- [Language-Selector](https://github.com/VegaBobo/Language-Selector)
+- [LinkSheet](https://github.com/1fexd/LinkSheet)
+- [Lockscreen Widgets](https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets)
+- [MultiLocale](https://github.com/Nightdavisao/MultiLocale)
+- [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
+- [ShizuTools](https://github.com/legendsayantan/ShizuTools)
+- [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)
+- [System UI Tuner](https://github.com/zacharee/Tweaker)
+- [TapTap](https://github.com/KieronQuinn/TapTap)
+- [Taskbar](https://f-droid.org/packages/com.farmerbb.taskbar/)
+- [zFont 3](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2)
 
 ### Development Utilities
 
