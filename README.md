@@ -551,7 +551,7 @@ Hide Root
 
 
 ## Xposed Modules
-- LSposed - (Xposed Framework)
+- [LSPosed](https://github.com/LSPosed/LSPosed) - (Xposed Framework)
 
 ## Rootless Modifications
 - <a href="https://shizuku.rikka.app/">Shizuku</a> - The Core app needed for all rootless modifications. Shizuku grants users a limited access to the adb network on Android devices.
