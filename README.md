@@ -794,7 +794,7 @@ If you see something missing from The_Root_Repo, and you think it needs to be ad
 justadudeinspace4244@hotmail.com
 
 # License
-- The_Root_Repo is licensed under the GNU General Public License v3 ([GPL](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master?tab=GPL-3.0-1-ov-file#))
+- The_Root_Repo is licensed under the GNU General Public License v3 ([GPL](https://github.com/Justadudeinspace/The_Root_Repo/blob/Master/LICENSE))
 <br/>
 <br/>
 <br/>
