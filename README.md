@@ -1,7 +1,5 @@
 # (Page Under Construction)
 
-![IMG_20240206_110221_843](https://github.com/user-attachments/assets/81de3b98-810f-4b57-a972-fb8a5f7d4c11)
-
 
 # The_Root_Repo
 A Full Compilation of all Resources Needed to Root, Mod, and Customize Android Devices.
