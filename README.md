@@ -661,24 +661,24 @@ Hide Root
 
 ### Games
 
-- 90 FPS + 120 FPS & IPAD VIEW (Ads)
-- blocktopograph
-- HandheldExp
-- lac-tool
-- LOModInstaller
-- pf-tool
-- PGT: GFX, Launcher & Optimizer (Ads)
-- PGT+: Pro GFX, Launcher & Optimizer (Paid)
-- translatefgo
+- [90 FPS + 120 FPS & IPAD VIEW](https://play.google.com/store/apps/details?id=tq.tech.Fps)
+- [blocktopograph](https://github.com/NguyenDuck/blocktopograph)
+- [HandheldExp](https://github.com/Teppichseite/HandheldExp)
+- [lac-tool](https://github.com/aliernfrog/lac-tool)
+- [LOModInstaller](https://github.com/anyabot/LOModInstaller)
+- [pf-tool](https://github.com/aliernfrog/pf-tool)
+- [PGT: GFX, Launcher & Optimizer](https://play.google.com/store/apps/details?id=inc.trilokia.pubgfxtool.free)
+    - [PGT+: Pro GFX, Launcher & Optimizer](https://play.google.com/store/apps/details?id=inc.trilokia.pubgfxtool)
+- [translatefgo](https://github.com/rayshift/translatefgo)
 
 ### Input
 
-- Android-Show-Taps
-- Auto Cursor (IAP)
-- KeyMapper
-- Panda Gamepad Pro (Paid & IAP)
-- RealMouse
-- XtMapper
+- [Android-Show-Taps](https://github.com/k3x1n/Android-Show-Taps)
+- [Auto Cursor](https://play.google.com/store/apps/details?id=eu.toneiv.cursor)
+- [KeyMapper](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+- [Panda Gamepad Pro](https://play.google.com/store/apps/details?id=com.panda.gamepad)
+- [RealMouse](https://play.google.com/store/apps/details?id=com.redlee90.realmouse)
+- [XtMapper](https://github.com/Xtr126/XtMapper)
 
 ### Installer & App Stores
 
