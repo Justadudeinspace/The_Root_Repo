@@ -9,6 +9,7 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
 # Table of Contents
 - [The_Root_Repo](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#the_root_repo)
 - [Table of Contents](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#table-of-contents)
+    - Glossary
     - [Tools](https://github.com/Justadudeinspace/The_Root_Repo/blob/Master/README.md#tools)
     - [Rooting Apps](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#rooting-apps)
     - [Custom Recoveries](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#custom-recoveries)
@@ -25,6 +26,9 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
 - [Authoer Recommended Apps](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#author-recommended-apps)
 - [Support & Contribute](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#support--contribute)
 - [License](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#license)
+
+## Glossary
+- `[XP]` = Xposed Module
 
 ## Tools
 
