@@ -20,6 +20,7 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
   - Rootless Modification Apps
   - Installation Instructions & Guides
   - Resource Links
+
 - Support & Contribute
 - License
 
