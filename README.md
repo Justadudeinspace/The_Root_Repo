@@ -1,5 +1,7 @@
 # (Page Under Construction)
 
+![PSX_20250112_223944](https://github.com/user-attachments/assets/f76644e4-83f7-4a6d-a77a-177b0ad7c079)
+
 
 # The_Root_Repo
 A Full Compilation of all Resources Needed to Root, Mod, and Customize Android Devices.
