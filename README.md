@@ -511,6 +511,7 @@ Hide Root
 
 - Magisk Manager
 - MMRL
+- [AMM](https://github.com/Androidacy/MagiskModuleManager)
 
 ### System Modifications
 
