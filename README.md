@@ -527,26 +527,26 @@ Hide Root
 
 ### Termux
 
-- Termux
-- Termux:API
-- Termux:Boot
-- Termux:Float
-- Termux:Styling
-- Termux:Tasker
-- Termux:Widget
+- [Termux](https://github.com/termux/termux-app)
+- [Termux:API](https://github.com/termux/termux-api)
+- [Termux:Boot](https://github.com/termux/termux-boot)
+- [Termux:Float](https://github.com/termux/termux-float)
+- [Termux:Styling](https://github.com/termux/termux-styling)
+- [Termux:Tasker](https://github.com/termux/termux-tasker)
+- [Termux:Widget](https://github.com/termux/termux-widget)
 
 ### Tools
 
-- Device Info HW
-- Hydrostellaire
-- JoyCon Droid
-- NFC Card Emulator Pro (Root)
-- Pi-hole-for-Android
-- SecondScreen
-- UotanToolbox NT
-- TTLChanger
-- Root Activity Launcher
-- WiFi Password Viewer for MMRL
+- [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw)
+- [Hydrostellaire](https://github.com/AestasBritannia/Hydro-Br-leur)
+- [JoyCon Droid](https://joycondroid.gitbook.io/joycondroid)
+- [NFC Card Emulator Pro](https://play.google.com/store/apps/details?id=com.yuanwofei.cardemulator.pro)
+- [Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android)
+- [SecondScreen](https://github.com/farmerbb/SecondScreen)
+- [UotanToolbox NT](https://github.com/Uotan-Dev/UotanToolboxNT)
+- [TTLChanger](https://github.com/aleksey-saenko/TTLChanger)
+- [Root Activity Launcher](https://play.google.com/store/apps/details?id=tk.zwander.rootactivitylauncher)
+- [WiFi Password Viewer for MMRL](https://github.com/Googlers-Repo/wpd)
 
 ## Magisk & Xposed Modules
 - [LSPosed](https://github.com/LSPosed/LSPosed) - `Xposed Framework`
