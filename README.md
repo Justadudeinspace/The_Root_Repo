@@ -745,8 +745,12 @@ Hide Root
 
 Google Pixel
 
-- pixel-volte-patch
-- Smartspacer
+- [pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md)
+- [Smartspacer](https://github.com/KieronQuinn/Smartspacer)
+- [Pixel IMS](https://play.google.com/store/apps/details?id=dev.bluehouse.enablevolte&hl=en)
+- [Pixel LCS](https://play.google.com/store/apps/details/Pixel_LCS?id=com.by.by_light&gl=US)
+- [Pixel Tuner](https://play.google.com/store/apps/details?id=it.folgore95.pixeltuner)
+- [Pixels](https://play.google.com/store/apps/details?id=com.tribalfs.pixels&hl=en_US)
 
 Samsung OneUI
 
