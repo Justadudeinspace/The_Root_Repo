@@ -757,32 +757,32 @@ Google Pixel
 
 Samsung OneUI
 
-- Hex Installer
-- SBatteryTweaks
-- SMTShell
+- [Hex Installer-OneUI Themes](https://play.google.com/store/apps/details?id=project.vivid.hex.bodhi)
+- [SBatteryTweaks](https://github.com/pascua28/SBatteryTweaks)
+- [SMTShell](https://github.com/BLuFeNiX/SMTShell)
 
 MIUI
 
-- FiveGSwitcher
-- FxxkMIUIAd
-- MixFlipTool
-- Mi-FreeForm
-- Flyme-FreeForm
-- NavigationSwitcher
+- [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg)
+- [FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd)
+- [MixFlipTool](https://github.com/parallelcc/MixFlipTool)
+- [Mi-FreeForm](https://github.com/sunshine0523/Mi-FreeForm)
+    - [Flyme-FreeForm](https://github.com/Live-Block/Flyme-FreeForm)
+- [NavigationSwitcher](https://github.com/chiyuki0325/NavigationSwitcher)
 
 ### Filesystem
 
-- LintFile
-- nextgenfs
-- shizuku_apk_installer
+- [LintFile](https://github.com/lumkit/LintFile)
+- [nextgenfs](https://github.com/rayshift/nextgenfs)
+- [shizuku_apk_installer](https://github.com/re7gog/shizuku_apk_installer)
 
 ### System
 
-- ServiceManagerCompat
+- [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat)
 
 ### Power
 
-- PowerAct
+- [PowerAct](https://github.com/ryuunoakaihitomi/PowerAct)
 
 
 ## Installation Instructions & Guides
