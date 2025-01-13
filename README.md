@@ -798,8 +798,13 @@ MIUI
 - <a href="https://www.hovatek.com/twrpbuilder/">Hovatek TWRP Builder</a> is an online TWRP compiler. It literally builds custom recoveries for compatible devices.
 
 # Credit
+- [topjohnwu](https://github.com/topjohnwu) / [Magisk](https://github.com/topjohnwu/Magisk) - Source and Creator of Magisk.
+- [bkerler](https://github.com/bkerler) / [mtkclient](https://github.com/bkerler/mtkclient) / [edl](https://github.com/bkerler/edl) - Source and Creator of the Exploit Tools.
 - [timschneeb](https://github.com/timschneeb) / [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Source of the Shizuku Lot of Rootless Modification Apps List. Visit for more detailed information on Shizuku.
 - [fynks](https://github.com/fynks) / [awesome-android-root](https://github.com/fynks/awesome-android-root) - Source of the Lot of Root Apps List. Visit for more detailed information on Root Apps.
+- [musabcel](https://github.com/musabcel) / [android_rom_list](https://github.com/musabcel/android_rom_list) - Source of the Lot of Custom Roms/Firmware List.
+- [Androidacy](https://www.androidacy.com/) - Source of much of the Xposed/Magisk Modules.
+- [Magisk Modules Alternative Repository](https://github.com/Magisk-Modules-Alt-Repo/) - Source of much of the Xposed/Magisk Modules
 
 # Author Recommended Apps
 - [Seal](https://github.com/JunkFood02/Seal) - Best Android Video/Audio Downloader based on yt-dlp
