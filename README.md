@@ -605,60 +605,61 @@ Hide Root
 
 ### Development Utilities
 
-- AIDE-Plus
-- android_airplane_mode
-- AndroidAccounts
-- AndroidLowLevelDetector
-- Cosmic-IDE
-- CurrentActivity
-- get_event
-- Geto
-- LibChecker
-- LogFox
-- Logra
-- PyDroid 3 (Ads & IAP)
-- RootActivityLauncher (Paid)
-- SensorsOff
-- TakoStats (IAP)
-- wireless-adb-switch
+- [AIDE-Plus](https://github.com/AndroidIDE-CN/AIDE-Plus)
+- [android_airplane_mode](https://github.com/lalakii/android_airplane_mode)
+- [AndroidAccounts](https://github.com/iamr0s/AndroidAccounts)
+- [AndroidLowLevelDetector](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo)
+- [Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE)
+- [CurrentActivity](https://github.com/Omico/CurrentActivity)
+- [get_event](https://github.com/lalakii/get_event)
+- [Geto](https://github.com/JackEblan/Geto)
+- [LibChecker](https://github.com/LibChecker/LibChecker)
+- [LogFox](https://github.com/F0x1d/LogFox)
+- [Logra](https://github.com/wingio/Logra)
+- [PyDroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
+- [RootActivityLauncher](https://play.google.com/store/apps/details?id=tk.zwander.rootactivitylauncher&hl=en&gl=US)
+- [SensorsOff](https://github.com/LinerSRT/SensorsOff)
+- [TakoStats](https://play.google.com/store/apps/details?id=rikka.fpsmonitor)
+- [wireless-adb-switch](https://github.com/Smooth-E/wireless-adb-switch)
 
 ### Device Owner (DPM)
 
-- Dhizuku
-- OwnDroid
+- [Dhizuku](https://github.com/iamr0s/Dhizuku)
+- [OwnDroid](https://github.com/BinTianqi/OwnDroid)
 
 ### Display Management
 
-- AG Displays (Ads)
-- Android-Screener
-- ConnectScreen
-- Fold_Switcher
-- SecondScreen
-- pixelify
+- [AG Displays](https://play.google.com/store/apps/details?id=com.htl.agdisplays)
+- [Android-Screener](https://github.com/jiesou/Android-Screener)
+- [ConnectScreen](https://connect-screen.com/)
+- [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher)
+- [SecondScreen](https://play.google.com/store/apps/details?id=com.farmerbb.secondscreen.free)
+- [pixelify](https://github.com/DitzDev/pixelify)
 
 ### Entertainment
 
-- Aniyomi
-- BilibiliCacheVideoMerge
-- Mihon
-- Mihon/Tachiyomi
+- [Aniyomi](https://github.com/aniyomiorg/aniyomi)
+- [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge)
+- [Mihon](https://github.com/mihonapp/mihon)
+    - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
+        - [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ)
 
 ### File Management
 
-- AirData UAV
-- Amarok-Hider
-- EDS Full (Paid)
-- EDS Lite
-- FV File Manager
-- MiXplorer
-- MiXplorer Silver (Paid)
-- MT Manager
-- NMM File Manager / Text Edit
-- SDMaid-SE
-- SwiftBackup (IAP)
-- Total Commander
-- X-Plore (Ads & IAP)
-- ZArchiver
+- [AirData UAV](https://play.google.com/store/apps/details?id=com.airdata.uav.app)
+- [Amarok-Hider](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss)
+- [EDS Full-Encrypted Data Store Full](https://sovworks.com/eds/index.php)
+- [EDS Lite-Encrypted Data Store Lite](https://sovworks.com/eds/index.php)
+- [FV File Manager](https://play.google.com/store/apps/details?id=com.folderv.file)
+- [MiXplorer](https://xdaforums.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280)
+    - [MiXplorer Silver](https://play.google.com/store/apps/details?id=com.mixplorer.silver)
+- [MT Manager](https://mt2.cn/)
+- [NMM File Manager / Text Edit](https://play.google.com/store/apps/details?id=in.mfile)
+- [SDMaid-SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
+- [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
+- [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)
+- [X-Plore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore)
+- [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 
 ### Games
 
