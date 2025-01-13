@@ -755,7 +755,7 @@ Hide Root
 
 ### Vendor-Specific Rootless Modification Apps 
 
-Google Pixel
+`Google Pixel`
 
 - [pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md)
 - [Smartspacer](https://github.com/KieronQuinn/Smartspacer)
@@ -764,13 +764,13 @@ Google Pixel
 - [Pixel Tuner](https://play.google.com/store/apps/details?id=it.folgore95.pixeltuner)
 - [Pixels](https://play.google.com/store/apps/details?id=com.tribalfs.pixels&hl=en_US)
 
-Samsung OneUI
+`Samsung OneUI`
 
 - [Hex Installer-OneUI Themes](https://play.google.com/store/apps/details?id=project.vivid.hex.bodhi)
 - [SBatteryTweaks](https://github.com/pascua28/SBatteryTweaks)
 - [SMTShell](https://github.com/BLuFeNiX/SMTShell)
 
-MIUI
+`MIUI`
 
 - [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg)
 - [FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd)
