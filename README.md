@@ -797,7 +797,7 @@ If you see something missing from The_Root_Repo, and you think it needs to be ad
 Email: justadudeinspace4244@hotmail.com 
 
 # License
-- GPL -3.0 license 
+- [GPL -3.0 license](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master?tab=GPL-3.0-1-ov-file#)
 
 
 
