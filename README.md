@@ -16,8 +16,7 @@ A Full Compilation of all Resources Needed to Root, Mod, and Customize Android D
     - [GSI Roms/Firmware](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#gsi-romsfirmware)
     - [MIUI Roms/Firmware](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#miui-romsfirmware)
     - [Root Apps](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#root-apps)
-    - [Magisk Modules](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#magisk-modules)
-    - [Xposed Modules](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#xposed-modules)
+    - [Magisk & Xposed Modules](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#magisk-modules)
     - [Rootless Modifications](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#rootless-modifications)
     - [Rootless Modification Apps](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#rootless-modification-apps-shizuku-required)
     - [Installation Instructions & Guides](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#installation-instructions--guides)
@@ -547,10 +546,7 @@ Hide Root
 - Root Activity Launcher
 - WiFi Password Viewer for MMRL
 
-## Magisk Modules
-
-
-## Xposed Modules
+## Magisk & Xposed Modules
 - [LSPosed](https://github.com/LSPosed/LSPosed) - (Xposed Framework)
 
 ## Rootless Modifications
