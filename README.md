@@ -7,22 +7,22 @@
 A Full Compilation of all Resources Needed to Root, Mod, and Customize Android Devices.
 
 # Table of Contents
-  - Tools
-  - Rooting Apps
-  - Custom Recoveries
-  - Custom Roms/Firmware
-  - GSI Roms/Firmware
-  - MIUI Roms/Firmware
-  - Root Apps
-  - Magisk Modules
-  - Xposed Modules
-  - Rootless Modifications
-  - Rootless Modification Apps
-  - Installation Instructions & Guides
-  - Resource Links
+  - [Tools](https://github.com/Justadudeinspace/The_Root_Repo/blob/Master/README.md#tools)
+  - [Rooting Apps](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#rooting-apps)
+  - [Custom Recoveries](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#custom-recoveries)
+  - [Custom Roms/Firmware](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#custom-romsfirmware)
+  - [GSI Roms/Firmware](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#gsi-romsfirmware)
+  - [MIUI Roms/Firmware](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#miui-romsfirmware)
+  - [Root Apps](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#root-apps)
+  - [Magisk Modules](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#magisk-modules)
+  - [Xposed Modules](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#xposed-modules)
+  - [Rootless Modifications](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#rootless-modifications)
+  - [Rootless Modification Apps](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#rootless-modification-apps-shizuku-required)
+  - [Installation Instructions & Guides](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#installation-instructions--guides)
+  - [Resource Links](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#resource-links)
 
-- Support & Contribute
-- License
+- [Support & Contribute](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#support--contribute)
+- [License](https://github.com/Justadudeinspace/The_Root_Repo/tree/Master#license)
 
 ## Tools
 
