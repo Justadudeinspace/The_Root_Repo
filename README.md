@@ -430,28 +430,28 @@ Navigation
 ### OS Customization
 - `AOSP`
 
-- PixelXpert `[XP]`
+    - PixelXpert `[XP]`
 
 - `ColorOS`
 
-- LuckyTool `[XP]`
+    - LuckyTool `[XP]`
 
 - `Global`
 
-- SystemUI Tuner
+    - SystemUI Tuner
 
 - `HyperOS`
 
-- ClipboardList `[XP]`
-- HyperCeiler `[XP]`
-- Hyper Helper `[XP]`
-- HyperStar `[XP]`
-- MIUIqol `[XP]`
-- Pengeek `[XP]`
+    - ClipboardList `[XP]`
+    - HyperCeiler `[XP]`
+    - Hyper Helper `[XP]`
+    - HyperStar `[XP]`
+    - MIUIqol `[XP]`
+    - Pengeek `[XP]`
 
 - `Oxygen OS`
 
-- Oxygen-Customizer `[XP]`
+    - Oxygen-Customizer `[XP]`
 
 ### Theming
 
