@@ -556,6 +556,7 @@ Hide Root
 ### Audio
 
 - [RootlessJamesDSP](https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp&utm_source=github&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+- [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet&hl=en_US)
 
 ### Automation
 
